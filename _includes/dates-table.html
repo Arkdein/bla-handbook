@@ -10,7 +10,7 @@
 {%- assign prows = rows | where: "period", p.code -%}
 {%- if prows.size > 0 %}
 <h2 id="{{ p.code }}">{% if zh %}{{ p.zh }}{% else %}{{ p.en }}{% endif %}</h2>
-<div class="table-wrapper"><table class="bla-dates">
+<table class="bla-dates">
 <thead><tr>{% if zh %}<th>日期</th><th>活动</th><th>对象</th><th>备注</th>{% else %}<th>Date</th><th>Event</th><th>For</th><th>Notes</th>{% endif %}</tr></thead>
 <tbody>
 {%- for r in prows %}
@@ -32,6 +32,6 @@
 <td>{% if zh %}{{ r.notes_zh }}{% else %}{{ r.notes_en }}{% endif %}</td>
 </tr>
 {%- endfor %}
-</tbody></table></div>
+</tbody></table>
 {%- endif -%}
 {%- endfor %}
