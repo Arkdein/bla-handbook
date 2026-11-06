@@ -14,10 +14,10 @@ translation_lang: en
 {% include lang-switch.html %}
 
 # BLA手册
-{: .fs-9 }
+{: .fs-9 .bla-home-title }
 
 立化中学 双文化领袖学研中心 · Bicultural Leaders Academy
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-300 .bla-home-sub }
 
 ![双文化领袖学研中心标志：一红一蓝两座桥横跨“双文化”三字]({{ '/assets/images/bla-logo-480.png' | relative_url }}){: .bla-hero }
 

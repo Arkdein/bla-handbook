@@ -7,5 +7,5 @@
   then put {% include lang-switch.html %} on the first line under the front matter.
 {%- endcomment -%}
 {%- if page.translation -%}
-<p class="bla-lang-switch"><a class="btn" href="{{ page.translation | relative_url }}" lang="{{ page.translation_lang }}" hreflang="{{ page.translation_lang }}">{{ page.translation_label }}</a></p>
+<p class="bla-lang-switch{% if page.permalink == '/' or page.permalink == '/en/' %} bla-lang-switch--home{% endif %}"><a class="btn" href="{{ page.translation | relative_url }}" lang="{{ page.translation_lang }}" hreflang="{{ page.translation_lang }}">{{ page.translation_label }}</a></p>
 {%- endif -%}
