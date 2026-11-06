@@ -54,14 +54,11 @@ BLA为何成立、我们所说的“双文化”是什么，以及BLA如何体�
 
 双文化领袖须具备以下三方面的知识与技能，缺一不可。BLA的大多数活动都至少围绕其中一项设计。
 
-<span class="bla-pac bla-pac-p">P</span> **中英语表达能力** Proficiency in Chinese and English
-: 双文化领袖必须能以两种语言清楚表达。BLA在课堂以外为会员提供说、写和发表华文的平台。
-
-<span class="bla-pac bla-pac-a">A</span> **华族历史文化鉴赏能力** Appreciation of Chinese History, Culture and Values
-: 要与中国同侪进行有意义的交流，并清楚自己在世界上的立足点，会员须熟悉华族历史文化，并深植华族价值观。
-
-<span class="bla-pac bla-pac-c">C</span> **跨文化技能与环球意识** Cross-Cultural Skills and Global Awareness
-: 通过论坛和学习之旅，会员学会在国际大局中审视新加坡与中国内外的发展动态，并能跨越文化差异与人合作。
+| | 能力 | 内容 |
+|:--|:--|:--|
+| <span class="bla-pac bla-pac-p">P</span> | **中英语表达能力** Proficiency in Chinese and English | 双文化领袖必须能以两种语言清楚表达。BLA在课堂以外为会员提供说、写和发表华文的平台。 |
+| <span class="bla-pac bla-pac-a">A</span> | **华族历史文化鉴赏能力** Appreciation of Chinese History, Culture and Values | 要与中国同侪进行有意义的交流，并清楚自己在世界上的立足点，会员须熟悉华族历史文化，并深植华族价值观。 |
+| <span class="bla-pac bla-pac-c">C</span> | **跨文化技能与环球意识** Cross-Cultural Skills and Global Awareness | 通过论坛和学习之旅，会员学会在国际大局中审视新加坡与中国内外的发展动态，并能跨越文化差异与人合作。 |
 
 ### 活动与PAC的对应 {#how-our-programme-maps-to-pac}
 

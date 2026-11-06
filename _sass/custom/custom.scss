@@ -78,7 +78,8 @@ details.bla-more[open] summary { margin-bottom: 0.5rem; }
 .bla-source { font-size: 0.8rem; color: #4a5568; margin-top: -0.25rem; }
 
 // Key dates table: dates never wrap mid-date on phones
-.bla-dates td:first-child { white-space: nowrap; font-variant-numeric: tabular-nums; }
+.bla-dates td:first-child { min-width: 7.5rem; max-width: 11rem; font-variant-numeric: tabular-nums; }
+.bla-dates td.bla-date-exact { white-space: nowrap; }
 .bla-dates .bla-flagship { font-weight: 700; color: $bla-red; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.03em; }
 
 // TODO placeholders: neutral, so they don't look like "Important" boxes

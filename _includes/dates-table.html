@@ -16,7 +16,7 @@
 {%- for r in prows %}
 {%- assign w = r.date | date: "%w" | plus: 0 -%}
 <tr>
-<td>
+<td{% unless r.approx == "yes" %} class="bla-date-exact"{% endunless %}>
 {%- if r.approx == "yes" -%}
 {%- if zh %}{{ r.when_zh }}{% else %}{{ r.when_en }}{% endif -%}
 {%- else -%}

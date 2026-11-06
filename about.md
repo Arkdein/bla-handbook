@@ -54,14 +54,11 @@ Being bicultural means more than knowing two languages. At RVHS we look at it th
 
 A bicultural leader needs all three kinds of knowledge and skill below. Most BLA activities are designed around at least one of them.
 
-<span class="bla-pac bla-pac-p">P</span> **Proficiency in Chinese and English** <span lang="zh-Hans">（中英语表达能力）</span>
-: Bicultural leaders must be able to express themselves well in both languages. BLA gives members platforms beyond the classroom to speak, write and present in Chinese.
-
-<span class="bla-pac bla-pac-a">A</span> **Appreciation of Chinese History, Culture and Values** <span lang="zh-Hans">（华族历史文化鉴赏能力）</span>
-: To engage meaningfully with Chinese counterparts, and to know where they stand in the world, members need a sound grasp of Chinese history and culture and a grounding in Chinese values.
-
-<span class="bla-pac bla-pac-c">C</span> **Cross-Cultural Skills and Global Awareness** <span lang="zh-Hans">（跨文化技能与环球意识）</span>
-: Through forums and learning journeys, members learn to see the dynamics within and beyond Singapore and China in the wider context of global affairs, and to work across cultural differences.
+| | Competency | What it means |
+|:--|:--|:--|
+| <span class="bla-pac bla-pac-p">P</span> | **Proficiency in Chinese and English** <span lang="zh-Hans">（中英语表达能力）</span> | Bicultural leaders must be able to express themselves well in both languages. BLA gives members platforms beyond the classroom to speak, write and present in Chinese. |
+| <span class="bla-pac bla-pac-a">A</span> | **Appreciation of Chinese History, Culture and Values** <span lang="zh-Hans">（华族历史文化鉴赏能力）</span> | To engage meaningfully with Chinese counterparts, and to know where they stand in the world, members need a sound grasp of Chinese history and culture and a grounding in Chinese values. |
+| <span class="bla-pac bla-pac-c">C</span> | **Cross-Cultural Skills and Global Awareness** <span lang="zh-Hans">（跨文化技能与环球意识）</span> | Through forums and learning journeys, members learn to see the dynamics within and beyond Singapore and China in the wider context of global affairs, and to work across cultural differences. |
 
 ### How our programme maps to PAC
 
