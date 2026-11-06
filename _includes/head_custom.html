@@ -13,6 +13,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&display=swap">
+{%- unless page.lang == "en" %}
+{%- comment -%} Chinese pages: 思源宋体 for headings only; body text stays in the system 黑体. Google Fonts serves only the characters a page uses. {%- endcomment -%}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&display=swap">
+{%- endunless %}
 {%- if page.translation %}
 <link rel="alternate" hreflang="{{ page.translation_lang }}" href="{{ page.translation | absolute_url }}">
 {%- endif %}

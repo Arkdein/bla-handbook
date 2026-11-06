@@ -17,6 +17,18 @@ h1, h2, h3, h4, .site-title, .btn {
 .main-content h2 { font-weight: 700; }
 .main-content h4 { text-transform: none; letter-spacing: normal; font-size: 1rem !important; }
 
+// Chinese pages: 宋体 (思源宋体 / Noto Serif SC) for headings and the home subtitle; 黑体 for everything else.
+// English pages keep Plus Jakarta Sans. The font is loaded in _includes/head_custom.html.
+$bla-song: "Noto Serif SC", "Songti SC", "STSong", "SimSun", serif;
+html:lang(zh-Hans) .main-content h1,
+html:lang(zh-Hans) .main-content h2,
+html:lang(zh-Hans) .main-content h3,
+html:lang(zh-Hans) .bla-home-sub { font-family: $bla-song; letter-spacing: 0.02em; }
+html:lang(zh-Hans) .main-content h1 { font-weight: 700; }
+html:lang(zh-Hans) .main-content h2,
+html:lang(zh-Hans) .main-content h3 { font-weight: 600; }
+html:lang(zh-Hans) .bla-home-sub { font-weight: 400 !important; }
+
 // Two thin bridge-coloured accents: red along the top of the page,
 // navy-and-red under every page title.
 body::before {
