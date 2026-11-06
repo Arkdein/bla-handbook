@@ -1,5 +1,8 @@
 ---
-title: 首页
+title: BLA手册
+# Same as the site title, so link previews and the browser tab read "BLA手册".
+# Left out of the side menu: the logo and title at the top of the menu link here.
+nav_exclude: true
 nav_order: 1
 permalink: /
 lang: zh-Hans

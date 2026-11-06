@@ -6,6 +6,7 @@
 
 title: BLA手册
 description: 立化中学双文化领袖学研中心手册 · Handbook of the Bicultural Leaders Academy, River Valley High School
+tagline: 立化中学双文化领袖学研中心
 timezone: Asia/Singapore
 lang: zh-Hans
 
@@ -79,3 +80,10 @@ exclude:
   - tests/
   - Gemfile
   - Gemfile.lock
+
+# Link previews (WhatsApp, Telegram, Teams): every page shares the same card image.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-card.png
