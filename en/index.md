@@ -17,7 +17,7 @@ translation_lang: zh-Hans
 # BLA Handbook
 {: .fs-9 .bla-home-title }
 
-Bicultural Leaders Academy · <span lang="zh-Hans">双文化领袖学研中心</span>
+<span class="bla-nowrap">Bicultural Leaders Academy</span><span lang="zh-Hans">双文化领袖学研中心</span>
 {: .fs-6 .fw-300 .bla-home-sub }
 
 ![Bicultural Leaders Academy logo: a red bridge and a blue bridge over the characters 双文化]({{ '/assets/images/bla-logo-480.png' | relative_url }}){: .bla-hero }

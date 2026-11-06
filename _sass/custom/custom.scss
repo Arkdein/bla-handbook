@@ -72,13 +72,13 @@ body::before {
 // Home page cover: title, subtitle and logo centred; body text stays left-aligned.
 .bla-home-title, .bla-home-sub { text-align: center; }
 .bla-home-title::after { margin-left: auto; margin-right: auto; }
-// Take the language button out of the flow so it doesn't push the centred title off-centre.
-.main-content { position: relative; }
-.bla-lang-switch--home { float: none; position: absolute; top: 0; right: 0; margin: 0; }
-@media (max-width: 30rem) {
-  // Narrow phones: keep the button above the title so they can't overlap.
-  .bla-lang-switch--home { position: static; text-align: right; margin: 0 0 0.5rem; }
-}
+// Language button sits on its own row above the title, so the title stays truly centred.
+// Two classes, so this beats the general .bla-lang-switch float further down.
+.bla-lang-switch.bla-lang-switch--home { float: none; position: static; text-align: right; margin: 0 0 0.25rem; }
+// Subtitle: each name on its own line, never broken mid-name.
+.bla-home-sub span { display: block; }
+.bla-home-sub .bla-nowrap { white-space: nowrap; }
+
 
 // Language switch (_includes/lang-switch.html)
 .bla-lang-switch { float: right; margin: 0 0 0.5rem 1rem; }
