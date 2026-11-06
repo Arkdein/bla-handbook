@@ -1,5 +1,5 @@
 {%- comment -%}
-  Sidebar brand lockup: BLA bridge logo + "BLA Handbook" + academy name.
+  Sidebar brand lockup: BLA bridge logo + site title (BLA手册) + academy name in Chinese and English.
   The logo file is set by `logo_file:` in _config.yml; if the file is
   missing, only the text shows.
 {%- endcomment -%}
@@ -8,7 +8,7 @@
   {%- if logo %}<img class="bla-logo" src="{{ site.logo_file | relative_url }}" alt="">{% endif -%}
   <span class="bla-wordmark">
     <span class="bla-wordmark-main">{{ site.title }}</span>
-    <span class="bla-wordmark-sub">Bicultural Leaders Academy</span>
     <span class="bla-wordmark-sub" lang="zh-Hans">立化中学 双文化领袖学研中心</span>
+    <span class="bla-wordmark-sub" lang="en">Bicultural Leaders Academy</span>
   </span>
 </span>

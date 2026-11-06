@@ -1,49 +1,50 @@
 ---
-title: For Teachers and EXCO
+title: 老师与执委
 nav_order: 5
-owner: Mr Randall Hoon
-last_reviewed: Nov 2026
-description: Where BLA teachers and EXCO members find the full Administrative SOP.
-translation: /zh/teachers-and-exco.html
-translation_label: 中文
-translation_lang: zh-Hans
+lang: zh-Hans
+owner: BLA老师
+last_reviewed: 2026年11月
+description: BLA老师与执委查阅《行政标准作业程序》的入口。
+translation: /en/teachers-and-exco.html
+translation_label: English
+translation_lang: en
 ---
 
 {% include lang-switch.html %}
 
-# For Teachers and EXCO
+# 老师与执委
 
-The full rules for running BLA are in the **BLA Administrative SOP** <span lang="zh-Hans">（双文化领袖学研中心 行政标准作业程序）</span>.
+管理BLA的完整规定，见《**双文化领袖学研中心 行政标准作业程序**》（BLA Administrative SOP）。
 {: .fs-6 .fw-300 }
 
-[Open the Administrative SOP]({{ site.sop_url }}){: .btn .btn-primary }
+[打开《行政标准作业程序》]({{ site.sop_url }}){: .btn .btn-primary }
 
-{: .note }
-The SOP is shared only with BLA teachers and current EXCO members, by name. Teachers sign in with their MOE account; EXCO members sign in with their iCON (students.edu.sg) account. If you are refused, ask Mr Randall Hoon for access.
+{: .note_zh }
+这份文件只按姓名开放给BLA老师和现任执委。老师请用MOE账号登录，执委请用iCON（students.edu.sg）账号登录。如无法打开，请向BLA老师申请权限。
 
-## What the SOP covers
+## SOP的内容 {#what-the-sop-covers}
 
-The SOP is bilingual: the full Chinese text comes first, followed by the full English text.
+SOP为双语文件：先是完整的中文版，后是完整的英文版。
 
-| SOP | Topic | Summary for members |
+| SOP | 主题 | 会员版摘要 |
 |:--|:--|:--|
-| 1 | Notifying members of activities | [How you'll hear about activities](members-guide.md#how-youll-hear-about-activities) |
-| 2 | Excusal from BLA activities | [Can't attend?](members-guide.md#cant-attend-applying-for-an-excusal) |
-| 3 | Excusal from lessons or other CCAs to attend BLA | [Missing lessons or another CCA](members-guide.md#missing-lessons-or-another-cca-for-bla) |
-| 4 | Attendance and School Cockpit | [Attendance](members-guide.md#attendance) |
-| 5 | Rulings on school CCA records | [What counts for your school CCA record](members-guide.md#what-counts-for-your-school-cca-record) |
-| 6 | Membership and CCA status | [Membership](members-guide.md#membership) |
-| 7 | Discipline and unexcused absence | [If you miss activities without an excuse](members-guide.md#if-you-miss-activities-without-an-excuse) |
-| 8 | Records ownership and data protection | [Your personal data](members-guide.md#your-personal-data) |
-| 9 | EXCO renewal | [Becoming EXCO](members-guide.md#becoming-exco) |
-| 10 | Event proposals and venue booking | — (EXCO and teachers only) |
+| 1 | 活动通知时间线 | [活动通知](members-guide.md#how-youll-hear-about-activities) |
+| 2 | 缺席BLA活动的请假申请 | [无法出席？](members-guide.md#cant-attend-applying-for-an-excusal) |
+| 3 | 为出席BLA活动向课程或其他CCA请假 | [为BLA活动向课程/CCA请假](members-guide.md#missing-lessons-or-another-cca-for-bla) |
+| 4 | 点名与School Cockpit出席记录 | [出席记录](members-guide.md#attendance) |
+| 5 | 学校CCA记录的认定 | [学校CCA记录](members-guide.md#what-counts-for-your-school-cca-record) |
+| 6 | 会员资格与CCA籍属 | [会员资格](members-guide.md#membership) |
+| 7 | 纪律与无故缺席处理 | [无故缺席](members-guide.md#if-you-miss-activities-without-an-excuse) |
+| 8 | 文件与资料管理 | [个人资料](members-guide.md#your-personal-data) |
+| 9 | 执委换届 | [成为执委](members-guide.md#becoming-exco) |
+| 10 | 活动提案与场地预订 | —（只限执委与老师） |
 
-## The SOP and this handbook
+## SOP与本手册 {#the-sop-and-this-handbook}
 
-- **The SOP is the authority.** The Member's Guide summarises it for members. If the two differ, the SOP applies, and the Member's Guide should be corrected.
-- **When the SOP changes,** tell the handbook owner so that the matching section of the Member's Guide, in both languages, can be updated.
-- **Do not copy the SOP onto this site.** The handbook is public; the SOP stays where access can be controlled.
+- **以SOP为准。**会员指南是SOP的会员版摘要；两者如有出入，以SOP为准，并应更正会员指南。
+- **SOP修订时**，请通知本手册负责人，以便同步更新会员指南的中英文相关段落。
+- **不要把SOP复制到本网站。**本手册是公开网站；SOP须留在可以控制权限的地方。
 
-## EXCO access
+## 执委的权限 {#exco-access}
 
-EXCO members can view the SOP document itself. They do not have access to the teachers' records folder, except that the Vice-President (Events and Admin) can edit that year's attendance and excusal files (SOP 8). At each handover, access to the SOP moves from the outgoing EXCO to the incoming EXCO.
+执委只可查看SOP文件本身，不可进入存放学校记录的老师文件夹；唯一例外是活动与行政副主席可编辑当年的出席与请假文件（见SOP 8）。每届交接时，SOP的查看权限由卸任执委转给新任执委。

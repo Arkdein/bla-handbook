@@ -1,44 +1,46 @@
 ---
-title: Home
+title: 首页
 nav_order: 1
-owner: Mr Randall Hoon
-last_reviewed: Nov 2026
-description: The handbook of the Bicultural Leaders Academy (BLA) at River Valley High School.
-translation: /zh/
-translation_label: 中文
-translation_lang: zh-Hans
+permalink: /
+lang: zh-Hans
+owner: BLA老师
+last_reviewed: 2026年11月
+description: 立化中学双文化领袖学研中心（BLA）手册。
+translation: /en/
+translation_label: English
+translation_lang: en
 ---
 
 {% include lang-switch.html %}
 
-# BLA Handbook
+# BLA手册
 {: .fs-9 }
 
-Bicultural Leaders Academy · <span lang="zh-Hans">双文化领袖学研中心</span>
+立化中学 双文化领袖学研中心 · Bicultural Leaders Academy
 {: .fs-6 .fw-300 }
 
-![Bicultural Leaders Academy logo: a red bridge and a blue bridge over the characters 双文化]({{ '/assets/images/bla-logo-480.png' | relative_url }}){: .bla-hero }
+![双文化领袖学研中心标志：一红一蓝两座桥横跨“双文化”三字]({{ '/assets/images/bla-logo-480.png' | relative_url }}){: .bla-hero }
 
-The Bicultural Leaders Academy (BLA) is River Valley High School's academy for students who want to grow as bilingual, bicultural leaders. Our members are about 150 students from Secondary 3 to JC2.
+双文化领袖学研中心（BLA）是立化中学为有志成为双语双文化领袖的学生而设的学研中心。会员为中三至高二学生，约150人。
 
-This handbook explains what BLA stands for, when things happen in the year, and what we expect of members.
+本手册介绍BLA的宗旨、全年活动日期，以及会员须知。
 
-## Start here
+## 从这里开始
 
 <div class="bla-start-here" markdown="1">
-[About BLA](about.md){: .btn .btn-primary }
-[Key dates](key-dates.md){: .btn .btn-primary }
-[Member's guide](members-guide.md){: .btn .btn-primary }
+[关于BLA](about.md){: .btn .btn-primary }
+[重要日期](key-dates.md){: .btn .btn-primary }
+[会员指南](members-guide.md){: .btn .btn-primary }
 </div>
 
-## BLA at a glance
+## BLA概览
 
-- **Academy Time (AT) is on Mondays.** The China Studies Perspectives Forum, the festival celebrations and events run by MOE or other schools can fall on other days. [See the key dates](key-dates.md).
-- **Attend at least 70% of BLA activities each year**, and attend both flagship events: the China Studies Perspectives Forum and the BLA Symposium. Excusals for these are judged more strictly.
-- **Can't make it?** Apply through the event's excusal form before the deadline. [How to apply](members-guide.md#cant-attend-applying-for-an-excusal).
-- **New Sec 3 and JC1 members join in Term 2**, at the joint orientation.
-- **JC2 members** are excused from AT in the second half of the year, and stay members until they graduate.
+- **Academy Time（AT）在星期一举行。**透视中国学生双语论坛、节庆活动，以及由教育部或其他学校主办的活动，可能安排在其他日子。[查看重要日期](key-dates.md)。
+- **每年须出席至少70%的BLA活动**，并出席两项旗舰活动：透视中国学生双语论坛和BLA研讨会。这两项活动的请假审批标准从严。
+- **无法出席？**请在截止日期前通过该活动的请假单申请。[如何申请](members-guide.md#cant-attend-applying-for-an-excusal)。
+- **中三、高一新会员在第二学段入会**，并出席联合迎新会。
+- **高二会员**下半年无需出席AT，但保留会员身份至毕业。
 
-## For teachers and EXCO
+## 老师与执委
 
-The full Administrative SOP is for BLA teachers and EXCO members. [Find it here](teachers-and-exco.md).
+完整的《行政标准作业程序》（SOP）供BLA老师和执委使用。[请到这里查阅](teachers-and-exco.md)。

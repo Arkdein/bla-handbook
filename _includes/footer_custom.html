@@ -1,13 +1,13 @@
 {%- if page.owner -%}
 <p class="bla-page-meta">
-  {%- if page.lang == "zh-Hans" -%}
-  负责人：{{ page.owner }}{% if page.last_reviewed %} · 最后审阅：{{ page.last_reviewed }}{% endif %}
-  {%- else -%}
+  {%- if page.lang == "en" -%}
   Owner: {{ page.owner }}{% if page.last_reviewed %} · Last reviewed: {{ page.last_reviewed }}{% endif %}
+  {%- else -%}
+  负责人：{{ page.owner }}{% if page.last_reviewed %} · 最后审阅：{{ page.last_reviewed }}{% endif %}
   {%- endif -%}
 </p>
 {%- endif -%}
 <div class="bla-footer">
   <p class="bla-motto"><span lang="zh-Hans">立德立功 · 化愚化顽</span> · Upholding Virtues, Contributing to Society</p>
-  <p>Bicultural Leaders Academy <span lang="zh-Hans">双文化领袖学研中心</span> · <a href="https://www.rivervalleyhigh.moe.edu.sg/">River Valley High School</a></p>
+  <p><span lang="zh-Hans">立化中学 双文化领袖学研中心</span> · <span lang="en">Bicultural Leaders Academy</span> · <a href="https://www.rivervalleyhigh.moe.edu.sg/">River Valley High School</a></p>
 </div>

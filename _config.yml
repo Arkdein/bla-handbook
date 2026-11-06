@@ -4,10 +4,10 @@
 #  Lines marked  # ← EDIT  are the ones the owner may change.
 # ─────────────────────────────────────────────────────────────
 
-title: BLA Handbook
-description: Handbook of the Bicultural Leaders Academy (双文化领袖学研中心), River Valley High School
+title: BLA手册
+description: 立化中学双文化领袖学研中心手册 · Handbook of the Bicultural Leaders Academy, River Valley High School
 timezone: Asia/Singapore
-lang: en
+lang: zh-Hans
 
 # Web address of the site
 url: "https://arkdein.github.io"           # ← EDIT if the repository moves
@@ -43,7 +43,7 @@ heading_anchors: true
 kramdown:
   toc_levels: 1..3
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "回到顶部 Back to top"
 
 callouts_level: quiet
 callouts:

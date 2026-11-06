@@ -131,7 +131,7 @@ for (const [rel, p] of Object.entries(pages)) {
 
 // English and Chinese pages should have the same heading ids (so links work in both)
 for (const [rel, p] of Object.entries(pages)) {
-  if (rel.startsWith("zh/") || !p.fm.translation) continue;
+  if (p.fm.lang !== "en" || !p.fm.translation) continue;
   const other = byUrl[p.fm.translation];
   if (!other) continue;
   for (const id of pages[other].ids.explicit) {

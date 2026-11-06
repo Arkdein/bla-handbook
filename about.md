@@ -1,125 +1,84 @@
 ---
-title: About BLA
+title: 关于BLA
 nav_order: 2
-owner: Mr Randall Hoon
-last_reviewed: Nov 2026
-description: BLA's mission, the PAC framework, and how BLA serves the RVHS vision, mission and values.
-translation: /zh/about.html
-translation_label: 中文
-translation_lang: zh-Hans
+lang: zh-Hans
+owner: BLA老师
+last_reviewed: 2026年11月
+description: BLA的使命、PAC框架，以及BLA如何体现立化中学的愿景、使命与价值观。
+translation: /en/about.html
+translation_label: English
+translation_lang: en
 ---
 
 {% include lang-switch.html %}
 
-# About BLA
+# 关于BLA
 {: .no_toc }
 
-Why BLA exists, what we mean by "bicultural", and how BLA serves the school's vision, mission and values.
+BLA为何成立、我们所说的“双文化”是什么，以及BLA如何体现学校的愿景、使命与价值观。
 {: .fs-6 .fw-300 }
 
 <details markdown="block">
-<summary>On this page</summary>
+<summary>本页内容</summary>
 {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-## Who we are
+## 我们是谁 {#who-we-are}
 
-River Valley High School was the first Chinese secondary school set up by the government (1956), and was among the first schools given Special Assistance Plan (SAP) status (1979). The Bicultural Studies Programme (BSP) has been one of the school's signature programmes since the 2000s.
+立化中学创办于1956年，是政府开办的第一所华文中学，并于1979年成为首批特选中学之一。双文化课程（BSP）自2007年开办以来，一直是我校的特色课程之一。
 
-The Bicultural Leaders Academy was set up in 2017 to bring the school's bicultural programmes together and to strengthen how the school identifies and develops bicultural talent. Its members are students from Sec 3 to JC2 who take the BSP, Literature or an H2 Chinese subject, or who took BSP or Literature in secondary school.
+双文化领袖学研中心成立于2017年，旨在整合现有的双文化课程活动，并加强我校双文化人才的遴选机制与培养计划。会员为中三至高二学生，包括修读双文化课程、文学或H2华文科目的学生，以及中学时修读双文化课程或文学的高中生。
 
-### Our mission
+### 我们的使命 {#our-mission}
 
-> To groom for Singapore bicultural leaders who are well-versed in Chinese language and culture, steeped in Chinese values, and possess a global perspective.
+> 为新加坡培养精通华族语言文化、深植华族价值观、具备环球视野的双文化领袖。
 
-### Our aspiration
+### 课程展望 {#our-aspiration}
 
-> <span lang="zh-Hans">发掘学生的双语潜能并开拓他们的视野，为新加坡培养对东西方文化有学习热忱的双文化人才。</span>
->
-> To uncover students' bilingual potential and widen their horizons, so as to nurture for Singapore bicultural people with a passion for learning about both Eastern and Western cultures.
+> 发掘学生的双语潜能并开拓他们的视野，为新加坡培养对东西方文化有学习热忱的双文化人才。
 
-## What we mean by "bicultural"
+## 我们所说的“双文化” {#what-we-mean-by-bicultural}
 
-Being bicultural means more than knowing two languages. At RVHS we look at it through three lenses:
+双文化不只是掌握两种语言。立化从三个层面理解双文化：
 
-| Lens | What it means for a BLA member |
+| 层面 | 对BLA会员的意义 |
 |:--|:--|
-| **Singapore Chinese culture** | Embracing Chinese values and the cultural roots you come from, while recognising what makes the Singapore Chinese experience its own, compared with Chinese communities in mainland China, Hong Kong, Taiwan and elsewhere. |
-| **Contemporary China** | Understanding China's society, culture and present-day developments while staying rooted in Singapore, and thinking about how that understanding can help Singapore build links with China. |
-| **East and West** | Understanding both Eastern and Western cultures, drawing on the best of each, and acting as a bridge across cultural differences. |
+| **新加坡华族文化** | 认同华族价值观，珍惜自己的文化根源；同时认识到新加坡华人与中国大陆、香港、台湾及其他地区华人的不同经验。 |
+| **当代中国** | 深入了解中国的社会文化与当代发展，同时立足新加坡，思考如何运用所学，为新加坡与中国建立联系。 |
+| **东方与西方** | 了解东西方文化，取两者之长，在不同文化之间担当桥梁。 |
 
-## The PAC framework
+## PAC框架 {#the-pac-framework}
 
-A bicultural leader needs all three kinds of knowledge and skill below. Most BLA activities are designed around at least one of them.
+双文化领袖须具备以下三方面的知识与技能，缺一不可。BLA的大多数活动都至少围绕其中一项设计。
 
-| | Competency | What it means |
+| | 能力 | 内容 |
 |:--|:--|:--|
-| <span class="bla-pac bla-pac-p">P</span> | **Proficiency in Chinese and English** <span lang="zh-Hans">（中英语表达能力）</span> | Bicultural leaders must be able to express themselves well in both languages. BLA gives members platforms beyond the classroom to speak, write and present in Chinese. |
-| <span class="bla-pac bla-pac-a">A</span> | **Appreciation of Chinese History, Culture and Values** <span lang="zh-Hans">（华族历史文化鉴赏能力）</span> | To engage meaningfully with Chinese counterparts, and to know where they stand in the world, members need a sound grasp of Chinese history and culture and a grounding in Chinese values. |
-| <span class="bla-pac bla-pac-c">C</span> | **Cross-Cultural Skills and Global Awareness** <span lang="zh-Hans">（跨文化技能与环球意识）</span> | Through forums and learning journeys, members learn to see the dynamics within and beyond Singapore and China in the wider context of global affairs, and to work across cultural differences. |
+| <span class="bla-pac bla-pac-p">P</span> | **中英语表达能力** Proficiency in Chinese and English | 双文化领袖必须能以两种语言清楚表达。BLA在课堂以外为会员提供说、写和发表华文的平台。 |
+| <span class="bla-pac bla-pac-a">A</span> | **华族历史文化鉴赏能力** Appreciation of Chinese History, Culture and Values | 要与中国同侪进行有意义的交流，并清楚自己在世界上的立足点，会员须熟悉华族历史文化，并深植华族价值观。 |
+| <span class="bla-pac bla-pac-c">C</span> | **跨文化技能与环球意识** Cross-Cultural Skills and Global Awareness | 通过论坛和学习之旅，会员学会在国际大局中审视新加坡与中国内外的发展动态，并能跨越文化差异与人合作。 |
 
-### How our programme maps to PAC
+### 活动与PAC的对应 {#how-our-programme-maps-to-pac}
 
-| Programme | PAC | What it is |
+| 活动 | PAC | 内容 |
 |:--|:--|:--|
-| Academy Time (AT) | <span class="bla-pac bla-pac-p">P</span> <span class="bla-pac bla-pac-a">A</span> <span class="bla-pac bla-pac-c">C</span> | Sharings, workshops and talks planned and led by members. Each session's proposal states which part of PAC it serves. |
-| Research projects and the BLA Symposium (flagship) | <span class="bla-pac bla-pac-p">P</span> <span class="bla-pac bla-pac-a">A</span> <span class="bla-pac bla-pac-c">C</span> | Members carry out an independent research project, analysing Chinese and Western cultures and Singapore–China politics, economics and society through a bicultural lens, and present it to peers and invited experts. |
-| China Studies Perspectives Forum (flagship) | <span class="bla-pac bla-pac-c">C</span> | A bilingual forum co-organised with Business China, where speakers with Eastern and Western perspectives discuss current China-related issues with students from RVHS and other schools. |
-| Lectures @RVHS | <span class="bla-pac bla-pac-a">A</span> <span class="bla-pac bla-pac-c">C</span> | Talks by invited speakers on Chinese culture, contemporary China and East–West issues. |
-| Learning journeys | <span class="bla-pac bla-pac-c">C</span> | Visits to organisations, including companies with business interests in China. |
-| BSP alumni sharings | <span class="bla-pac bla-pac-c">C</span> | Former BSP students share what they have gone on to do after RVHS. Held online in the evening. |
-| Chinese New Year and Mid-Autumn Festival celebrations | <span class="bla-pac bla-pac-a">A</span> | School-wide celebrations that BLA organises on the school's behalf. |
-| Values in Action at Shuqun Primary School | — | Service to the community, in line with the school's values. |
+| Academy Time（AT） | <span class="bla-pac bla-pac-p">P</span> <span class="bla-pac bla-pac-a">A</span> <span class="bla-pac bla-pac-c">C</span> | 由会员策划和主持的分享、工作坊和讲座。每次活动的提案都须说明对应PAC的哪一项。 |
+| 研习项目与BLA研讨会（旗舰活动） | <span class="bla-pac bla-pac-p">P</span> <span class="bla-pac bla-pac-a">A</span> <span class="bla-pac bla-pac-c">C</span> | 会员完成独立研习项目，以双文化视角深入分析中西文化及新中政治、经济和社会等课题，并向同侪及特邀专家学者发表。 |
+| 透视中国学生双语论坛（旗舰活动） | <span class="bla-pac bla-pac-c">C</span> | 与通商中国联办的双语论坛。具东西方视角的嘉宾与立化及他校学生一同探讨当下中国热点课题。 |
+| 讲座@立化 | <span class="bla-pac bla-pac-a">A</span> <span class="bla-pac bla-pac-c">C</span> | 特邀讲者谈华族文化、当代中国及东西方课题。 |
+| 学习之旅 | <span class="bla-pac bla-pac-c">C</span> | 参观机构，包括与中国有业务往来的企业。 |
+| BSP校友分享会 | <span class="bla-pac bla-pac-c">C</span> | 双文化课程校友分享离开立化后的发展。晚上线上进行。 |
+| 农历新年及中秋节庆祝活动 | <span class="bla-pac bla-pac-a">A</span> | BLA代表学校为全校筹办的节庆活动。 |
+| 淑群小学社区服务 | — | 服务社区，体现学校的价值观。 |
 
-### Our divisions
+## BLA与学校的愿景、使命和价值观 {#bla-and-the-school}
 
-BSP Council members each join one of three divisions, which share what they learn with members and the wider school through BLA's media platforms.
+立化中学的愿景是“为国家培育卓越领袖”（*Leaders of distinction for Singapore*），使命是“培养品行端正，慎思明辨，融贯中西，具环球视野的国家栋梁”。
 
-| Division | Focus |
-|:--|:--|
-| **Current Affairs** <span lang="zh-Hans">时事组</span> | Local news and major world events, including developments in China and the United States, explained simply through news analysis and short features. |
-| **Cultural Education** <span lang="zh-Hans">文化组</span> | Everyday cultural knowledge across history and thought, trends and customs, and language, to spark interest in both languages and cultures and in Singapore's own culture. |
-| **Arts and Literature** <span lang="zh-Hans">文艺组</span> | Chinese culture in China and Singapore through creative work; a place for members to write, create and share. |
+BLA是学校培养“融贯中西”与“具环球视野”的学生的主要平台之一；BLA“为新加坡培养双文化领袖”的使命，也与学校的愿景一脉相承。学校的四项价值观——追求卓越、奋发图强、以人为本、自立自发——同样是每一位BLA会员的行为准则。
 
-## How BLA serves the school's vision, mission and values
+## 资料来源 {#sources}
 
-BLA is one of the ways River Valley High School lives out its vision, mission and values. Members are expected to know how the two connect.
-
-### Vision: Leaders of distinction for Singapore <span lang="zh-Hans">为国家培育卓越领袖</span> {#vision}
-
-The school's vision and BLA's mission point the same way: leaders **for Singapore**. BLA's contribution is the bicultural edge. Singapore needs people who can understand China and relate to the West, and who can bridge the two for the country's sake.
-
-### Mission {#mission}
-
-> To nurture thinkers, leaders and achievers with good character, bicultural acumen and global perspective
->
-> <span lang="zh-Hans">培养品行端正，慎思明辨，融贯中西，具环球视野的国家栋梁</span>
-
-| The school mission says… | Where it shows up in BLA |
-|:--|:--|
-| **Thinkers** | Research projects that analyse cultural, political, economic and social issues through a bicultural lens; news analysis in the Current Affairs division. |
-| **Leaders** | The EXCO and the BSP Council; organising school-wide festival celebrations; members leading AT sessions. |
-| **Achievers** | Presenting research at the BLA Symposium to peers and experts; representing the school at MOE's BSP Symposium. |
-| **Good character** | Honest attendance, keeping commitments to the team, and serving others (see the values below). |
-| **Bicultural acumen** | <span class="bla-pac bla-pac-p">P</span> and <span class="bla-pac bla-pac-a">A</span> in the PAC framework. |
-| **Global perspective** | <span class="bla-pac bla-pac-c">C</span> in the PAC framework: the China Studies Perspectives Forum, learning journeys and alumni sharings. |
-
-### Values {#values}
-
-| School value | What it looks like in BLA |
-|:--|:--|
-| **Pursuit of excellence** <span lang="zh-Hans">追求卓越</span> | Holding research projects to an academic standard, and presenting them to an audience that includes experts. |
-| **Perseverance** <span lang="zh-Hans">奋发图强</span> | Seeing a year-long research project through, and keeping your BLA commitments alongside schoolwork and other CCAs. |
-| **People-centricity** <span lang="zh-Hans">以人为本</span> | Running celebrations for the whole school community and serving at Shuqun Primary School. When a member stops turning up, we ask what is going on before anything else. |
-| **Proactiveness** <span lang="zh-Hans">自立自发</span> | Members propose and lead their own AT sessions and events; the EXCO runs the academy alongside teachers. |
-
-### Motto: <span lang="zh-Hans">立德立功 · 化愚化顽</span> {#motto}
-
-*Upholding Virtues, Contributing to Society.* A bicultural education is meant to be used for others. BLA organises Chinese New Year and Mid-Autumn Festival for the whole school, and opens the China Studies Perspectives Forum to students from other secondary schools, junior colleges and institutes of higher learning.
-
-## Sources
-
-- [RVHS: Vision, Mission, Motto](https://www.rivervalleyhigh.moe.edu.sg/about-rv/vmm/) and [School Values and Spirit](https://rivervalleyhigh.moe.edu.sg/about-rv/svs/) (school website)
-- Concept paper of the Bicultural Academy (RVHS, 2016) and the BLA introduction (2022), RVHS internal documents
+- 立化中学网站：[Vision, Mission, Motto](https://www.rivervalleyhigh.moe.edu.sg/about-rv/vmm/)、[School Values and Spirit](https://rivervalleyhigh.moe.edu.sg/about-rv/svs/)
+- 《双文化学研中心概念文件》（立化中学，2016年）及《BLA介绍》（2022年），学校内部文件

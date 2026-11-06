@@ -34,14 +34,14 @@ Lines marked `approx` = `yes` show on the page but are left out of the calendar,
 
 ## Edit a page
 
-1. Open the page's `.md` file (English in the main folder, Chinese in `zh/`) and select the pencil icon.
+1. Open the page's `.md` file (Chinese in the main folder, English in `en/`) and select the pencil icon.
 2. Edit the text. Keep the block between the two `---` lines at the top as it is, except `last_reviewed`, which you update to the current month.
 3. Make the same change to the page in the other language.
 4. Select **Commit changes**.
 
 ## When the SOP changes
 
-Each section of the Member's Guide ends with a line such as "Based on SOP 2". Find the sections based on the SOP you changed, in `members-guide.md` and `zh/members-guide.md`, and bring them into line.
+Each section of the Member's Guide ends with a line such as "依据：SOP 2" / "Based on SOP 2". Find the sections based on the SOP you changed, in `members-guide.md` (Chinese) and `en/members-guide.md` (English), and bring them into line.
 
 ## Go live
 

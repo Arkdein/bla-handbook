@@ -9,7 +9,7 @@ permalink: /calendar.ics
 {%- endcomment -%}
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//River Valley High School//BLA Handbook//EN
+PRODID:-//River Valley High School//BLA Handbook//ZH
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:BLA {{ site.dates_year }}
@@ -23,8 +23,10 @@ X-WR-TIMEZONE:Asia/Singapore
 {%- unless r.approx == "yes" %}
 {%- assign last = r.end_date | default: r.date %}
 {%- if last == "" %}{% assign last = r.date %}{% endif %}
-{%- assign title = r.event_en | append: " / " | append: r.event_zh | replace: ",", esc_comma | replace: ";", esc_semi %}
-{%- assign desc = "For: " | append: r.for_en %}
+{%- assign title = r.event_zh | append: " / " | append: r.event_en | replace: ",", esc_comma | replace: ";", esc_semi %}
+{%- assign desc = "对象：" | append: r.for_zh %}
+{%- if r.notes_zh and r.notes_zh != "" %}{% assign desc = desc | append: "。" | append: r.notes_zh %}{% endif %}
+{%- assign desc = desc | append: " / For: " | append: r.for_en %}
 {%- if r.notes_en and r.notes_en != "" %}{% assign desc = desc | append: ". " | append: r.notes_en %}{% endif %}
 {%- assign desc = desc | replace: ",", esc_comma | replace: ";", esc_semi %}
 BEGIN:VEVENT

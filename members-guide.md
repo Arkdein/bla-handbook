@@ -1,258 +1,250 @@
 ---
-title: Member's Guide
+title: 会员指南
 nav_order: 4
-owner: Mr Randall Hoon
-last_reviewed: Nov 2026
-description: What BLA members need to know about attendance, excusals, CCA records, membership and EXCO.
-translation: /zh/members-guide.html
-translation_label: 中文
-translation_lang: zh-Hans
+lang: zh-Hans
+owner: BLA老师
+last_reviewed: 2026年11月
+description: BLA会员须知：出席、请假、CCA记录、会员资格与执委。
+translation: /en/members-guide.html
+translation_label: English
+translation_lang: en
 ---
 
 {% include lang-switch.html %}
 
-# Member's Guide
+# 会员指南
 {: .no_toc }
 
-What is expected of you as a BLA member, and how to get things done.
+BLA对会员的要求，以及各项事务的办理方法。
 {: .fs-6 .fw-300 }
 
-This guide is a summary of BLA's Administrative SOP, written for members. If the two ever differ, the SOP applies; tell the EXCO so this guide can be corrected.
+本指南是BLA《行政标准作业程序》（SOP）的会员版摘要。两者如有出入，以SOP为准；请告知执委，以便更正本指南。
 
 <details markdown="block">
-<summary>On this page</summary>
+<summary>本页内容</summary>
 {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-## Your commitments
+## 会员义务 {#your-commitments}
 
-Every member:
+每位会员都须：
 
-- attends **at least 70%** of BLA activities in the year;
-- attends both **flagship events**, the China Studies Perspectives Forum and the BLA Symposium. Excusal requests for these are judged more strictly (see [what is usually approved](#what-is-usually-approved)).
+- 每年出席**至少70%**的BLA活动；
+- 出席两项**旗舰活动**：透视中国学生双语论坛和BLA研讨会。这两项活动的请假审批标准从严（见[一般审批结果](#what-is-usually-approved)）。
 
-Depending on how you joined, you also have these commitments:
+视入会方式而定，你还须：
 
-| You are… | Also expected |
+| 你是…… | 另须 |
 |:--|:--|
-| A secondary student taking the Bicultural Studies Programme (BSP) or Literature | Complete one research project a year. |
-| A JC member | Complete a research project, or earn Academic Unit (AU) credits instead. |
-| A member of the BSP Council | Join a division, and help organise at least one BLA activity a year. |
+| 中学部修读双文化课程（BSP）的学生 | 每年完成一项研习项目。 |
+| 中学部修读文学的学生 | 无其他要求。 |
+| 高中部会员 | 在AT进行一次分享。 |
+| BSP奖学金得主 | 除研习项目或AT分享外，每年至少参与筹办一次BLA活动。 |
 
-**JC2 members** are excused from Academy Time in the second half of the year and stay members until they graduate.
+**高二会员**下半年无需出席AT，但保留会员身份至毕业。
 
-Based on the SOP introduction (scope) and SOP 6
+依据：SOP总则（适用范围）及SOP 6
 {: .bla-source }
 
-## How you'll hear about activities
+## 活动通知 {#how-youll-hear-about-activities}
 
-Notices are posted in the **BLA announcement group**, with the excusal form attached:
+活动通知会在**BLA公告群**发出，并附上请假单：
 
-- **2 weeks before** an Academy Time session;
-- **4 weeks before** a flagship event, and before any activity that means missing lessons or another CCA.
+- **AT：**活动前**2周**；
+- **旗舰活动**，以及需要向课程或其他CCA请假的活动：活动前**4周**。
 
-The notice gives the date, time, venue and agenda. A reminder comes the day before (for flagship events, also a week before). The year's dates are on [Key Dates](key-dates.md).
+通知列明日期、时间、地点和议程。活动前一天会再发提醒（旗舰活动另在活动前一周提醒）。全年日期见[重要日期](key-dates.md)。
 
-Based on SOP 1
+依据：SOP 1
 {: .bla-source }
 
-## Can't attend? Applying for an excusal
+## 无法出席？请假申请 {#cant-attend-applying-for-an-excusal}
 
-If you cannot attend, or will be late or leave early, apply through **that activity's excusal form** before it closes. Any absence that has not been approved counts as an unexcused absence.
+如无法出席，或会迟到、早退，请在截止日期前通过**该活动的请假单**申请。未经批准而缺席者，一律作无故缺席论。
 
-### Deadlines
+### 截止日期 {#deadline}
 
-| Activity | Form closes |
+{: .deadline_zh }
+请假单在**活动前一周晚上11时59分**截止。所有活动一律适用，包括旗舰活动，以及向课程或其他CCA请假的申请。
+
+审批结果会在活动前几天于公告群公布。申请不获批准者，必须出席。
+
+### 请假单怎么填 {#what-to-write}
+
+1. 中英文姓名和班级。
+2. 无法出席、迟到还是早退，以及到达或离开的时间。
+3. **具体原因**：写明活动名称、时间及你的角色，例如“全国学校运动会（NSG）半决赛，正选队员”。只写“CCA”或“Lesson”的申请会退回补充。
+4. 相关活动负责老师的姓名与电邮。
+
+{: .important_zh }
+**截止后只接受紧急情况。**如生病或家中有急事，最迟须在活动当天通知活动与行政副主席或任何一位执委，并在事后补交证明。未获准请假而缺席者，活动与行政副主席会在一周内向你了解原因；属实的紧急情况，可由负责老师追认为获准请假。
+
+### 一般审批结果 {#what-is-usually-approved}
+
+以下整理自老师在2025–2026年的实际裁定。旗舰活动的审批标准从严。
+
+| 原因 | 一般裁定 |
 |:--|:--|
-| Academy Time | Friday 11.59 pm, 10 days before the session |
-| Flagship events, and any activity that needs you to miss lessons or another CCA | 3 weeks before the event |
-
-You will see the decision in the announcement group about a week before an AT session (2 weeks before a flagship event, or an activity that needs lesson or CCA excusals). If your request is not approved, you are expected to attend.
-
-### What to write
-
-1. Your Chinese and English names, and your class.
-2. Whether you will be absent, late or leaving early, and the time you will arrive or leave.
-3. **A specific reason**: what the activity is, when it is, and your role. For example, *"National School Games (NSG) semi-final, starting player"*. Requests that just say "CCA" or "Lesson" are sent back.
-4. The name and email of the teacher in charge of the clashing activity.
-
-{: .important }
-**Emergencies only after the deadline.** If you fall sick or have a family emergency, tell your division head (if you have one) or any EXCO member by the day of the activity at the latest, and submit supporting documents afterwards. If you miss an activity without an approved excusal, your division VP or head, or the Vice-President (Events and Admin), will contact you within a week to ask why. A genuine emergency can still be changed to an approved absence by the teacher-in-charge.
-
-### What is usually approved
-
-These are based on teachers' actual decisions in 2025 and 2026. Flagship events are judged more strictly.
-
-| Reason | Usual decision |
-|:--|:--|
-| School exams, orals and timed practices | Approved |
-| Timetabled lessons, lectures and remedials | Approved; come to BLA after the lesson |
-| Representing the school or the nation, national team training | Approved |
-| Medical appointments and medical leave | Approved |
-| School or MOE programmes (e.g. third language) | Approved |
-| A key role in another CCA (e.g. EXCO, trainer) | Case by case |
-| A clash with another academy's activity | Approved the first time; BLA takes priority the next time |
-| Routine training in another CCA | AT: case by case. Flagship events: not approved |
-| Large events such as National Day Celebrations | Case by case: can someone else take your place? |
-| Voluntary service | Not approved |
-| Private tuition or lessons | Not approved |
-| Leaving soon after the activity starts | Not approved; apply for a full absence if you have a valid reason |
+| 学校考试、口试、计时练习 | 批准 |
+| 学校安排的课程、讲座、补课 | 批准；下课后须到场 |
+| 代表学校或国家参赛、国家队训练 | 批准 |
+| 就医、病假 | 批准 |
+| 学校或教育部安排的课程（如第三语文） | 批准 |
+| 在其他CCA担任关键职务（如执委、教练） | 视情况而定 |
+| 与其他学研中心的活动撞期 | 首次批准；再次撞期时须出席BLA |
+| 其他CCA的一般训练 | AT：视情况而定；旗舰活动：不批准 |
+| 国庆庆典等大型活动 | 视情况而定：你是否不可取代？ |
+| 自愿性质的义工活动 | 不批准 |
+| 私人补习、私人课程 | 不批准 |
+| 活动开始后不久即早退 | 不批准；若另有正当理由，请申请全程请假 |
 
 <details class="bla-more" markdown="1">
-<summary>A fixed weekly commitment keeps you from AT</summary>
+<summary>因每周固定安排而长期无法出席AT</summary>
 
-If something fixed (for example, a weekly O-level Music lesson on Mondays) regularly keeps you from AT, tell the EXCO. They will arrange another way for you to take part, such as AT slides on Google Classroom with a reflection form, or a role in planning an event.
+如果你因固定的课程或训练（例如每周一的O水准音乐课）长期无法出席AT，请告知执委。执委会安排其他参与方式，例如在Google Classroom查看AT简报，并通过反馈表提交学习心得，或参与筹办活动。
 
 </details>
 
-Based on SOP 2
+依据：SOP 2
 {: .bla-source }
 
-## Missing lessons or another CCA for BLA
+## 为BLA活动向课程或其他CCA请假 {#missing-lessons-or-another-cca-for-bla}
 
-Some BLA activities take place during lesson or CCA time: events that start before school ends (such as the China Studies Perspectives Forum), rehearsals, and committee work days. When that happens:
+有些BLA活动在上课或CCA时间进行：放学前开始的活动（如透视中国学生双语论坛）、彩排，以及筹委须占用上课时间的筹备工作日。遇到这种情况：
 
-1. **List every clash** in the "lesson/CCA" tab of the same excusal form, by 3 weeks before the event: the lesson or CCA, the time, and the teacher's name and email. Use one row for each lesson.
-2. **Mr Hoon emails each teacher** 2 weeks before the event.
-3. **Do not skip a lesson** unless the teacher has agreed. The teacher's decision always applies: if the teacher says no, attend the lesson, and your BLA absence is counted as approved.
-4. **Catch up** on any work you miss.
+1. **登记所有撞期**：在同一份请假单的“课程/CCA请假”分页，于同一截止日期（活动前一周）前登记受影响的课程或CCA、时间，以及负责老师的姓名与电邮。每项课程填写一行。
+2. **BLA老师电邮通知**每位相关老师（截止日期后）。
+3. **未经老师同意，不得自行缺课。**一切以老师的决定为准：老师不批准时，照常上课，该次缺席BLA记为获准请假。
+4. **自行补上**所缺的课业。
 
-**When BLA plans around clashes, this is the order of priority:** school exams → representing the school in competitions → BLA flagship events → timetabled lessons → routine CCA training.
+**BLA安排活动时的优先顺序：**学校考试 → 代表学校参赛 → BLA旗舰活动 → 学校正课 → 其他CCA常规训练。
 
-Based on SOP 3
+依据：SOP 3
 {: .bla-source }
 
-## Attendance
+## 出席记录 {#attendance}
 
-- **Roll is taken in person** at the start of every activity, by class representatives. We no longer use QR sign-in links.
-- If you arrive late, your arrival time is noted.
+- 每次活动开始时，由班代表**当场点名**。不再使用QR码签到链接。
+- 迟到者会被记下到达时间。
 
-| Code | Meaning |
+| 代码 | 含义 |
 |:--|:--|
-| Y | Present |
-| L | Late |
-| VR | Approved absence |
-| A | Unexcused absence |
+| Y | 出席 |
+| L | 迟到 |
+| VR | 获准请假 |
+| A | 无故缺席 |
 
-### How your attendance rate is worked out
+### 出席率的计算 {#how-your-attendance-rate-is-worked-out}
 
-Approved absences do not count against you:
+获准请假不计入分母，不会拉低你的出席率：
 
-> Attendance rate = sessions attended (Y + L) ÷ (total sessions − approved absences)
+> 出席率 = 出席次数（Y + L）÷（活动总数 − 获准请假次数）
 
-**Example:** there are 20 sessions in the year. You were excused from 2, missed 3 without approval, and attended the other 15. Your rate is 15 ÷ (20 − 2) = 83%.
+**例子：**全年共20次活动。你获准请假2次，无故缺席3次，其余15次都出席。出席率 = 15 ÷（20 − 2）= 83%。
 
-Your attendance is checked against the 70% requirement in Term 4.
+出席率在第四学段核算，检查是否达到70%。
 
-Based on SOP 4
+依据：SOP 4
 {: .bla-source }
 
-## What counts for your school CCA record
+## 学校CCA记录 {#what-counts-for-your-school-cca-record}
 
-Only two things go into your **school CCA record**:
+只有两类参与记入**学校CCA记录**：
 
-- an **EXCO post** (President, Vice-President or division head), with its term (July to July);
-- a role on the **Chinese New Year or Mid-Autumn Festival** organising committee, which BLA runs for the whole school. Only members who actually took part in the organising are recorded.
+- **执委职位**及任期（每年7月至翌年7月）；
+- **农历新年或中秋节庆祝活动**的筹委职位（BLA代表学校为全校举办）。只记录实际参与筹办者。
 
-If a post is withdrawn, it is recorded only for the time you actually held it.
+职位如被撤销，只按实际任期记录。
 
-Everything else you do in BLA, such as organising the China Studies Perspectives Forum, the Symposium, orientation or the handover, leading AT sessions, or your research project, is recorded in your **BLA portfolio**. Teachers use the portfolio when choosing the EXCO, making nominations for the school's EAGLES awards and writing testimonials.
+其他BLA参与，例如筹办透视中国学生双语论坛、研讨会、迎新会或交接仪式，主持AT，以及研习项目，都记入**BLA内部档案（BLA portfolio）**。老师在遴选执委、提名学校的EAGLES奖和撰写推荐信时会参考这份记录。
 
-Based on SOP 5
+依据：SOP 5
 {: .bla-source }
 
-## Membership
+## 会员资格 {#membership}
 
-### Who joins
+### 入会方式 {#who-joins}
 
-| You are… | How you join |
+| 你是…… | 入会方式 |
 |:--|:--|
-| A secondary BSP student | Membership is compulsory |
-| A secondary Literature student | Opt in |
-| A JC student taking H2 Chinese Language and Literature, Translation or China Studies in Chinese | Apply |
-| A JC student who took BSP or Literature in secondary school | Apply |
-| A BSP scholarship holder | Compulsory: join the BSP Council and one division |
-| Not a BSP scholarship holder | Apply to join the BSP Council |
+| 中学部修读BSP的学生 | 必须入会 |
+| 中学部修读文学的学生 | 自选入会 |
+| 高中部修读H2华文与文学、翻译或中国通识的学生 | 申请 |
+| 中学时修读BSP或文学的高中生 | 申请 |
 
-**JC1 students** hear about BLA at JC Primer Day in Term 1 and apply through a form; the teacher-in-charge approves applications. All new members, Sec 3 and JC1, join together at the orientation in Term 2.
+**高一学生**在第一学段的JC Primer Day认识BLA，并填写申请表格，由负责老师审批。所有新会员（中三与高一）在第二学段的迎新会上一起入会。
 
-### Divisions
+### CCA籍属 {#bla-as-your-cca}
 
-Within 2 weeks of orientation, BSP Council members choose a division: **Current Affairs**, **Cultural Education**, or **Arts and Literature**. You can apply to change division after two years, with the teacher-in-charge's approval. Read more about the divisions on [About BLA](about.md#our-divisions).
+- **中学部：**BLA为第二CCA。
+- **高中部：**可以BLA为第一CCA。
+- **高中部BSP奖学金得主：**必须以BLA为第一CCA。若在另一个CCA担任关键职务，经两位负责老师商定后，可改以BLA为第二CCA。
 
-### BLA as your CCA
+### 退会 {#leaving}
 
-- **Secondary members:** BLA is your second CCA.
-- **JC members:** you may take BLA as your first CCA.
-- **JC BSP scholarship holders:** BLA must be your first CCA. If you hold a key role in another CCA, you may take BLA as your second CCA if both teachers-in-charge agree.
+必须入会的会员不得退会。其他会员可在学年结束时申请退会，须经负责老师批准；学年中途退会仅限特殊情况。
 
-### Leaving
-
-If your membership is compulsory, you cannot withdraw. Other members may apply to withdraw at the end of the school year, with the teacher-in-charge's approval. Withdrawing in the middle of the year is allowed only in special cases.
-
-Based on SOP 6
+依据：SOP 6
 {: .bla-source }
 
-## If you miss activities without an excuse
+## 无故缺席与违纪 {#if-you-miss-activities-without-an-excuse}
 
-An unexcused absence, not finishing work you were given without explaining why, or repeatedly ignoring messages from your division head or committee all count as **breaches**. They are counted over the school year and reset every January.
+无故缺席、未作交代而没有完成分配的工作，或长期不回复执委、筹委的信息，都算**违纪**。违纪次数按学年累计，每年1月归零。
 
-| Breach | What happens |
+| 违纪 | 处理 |
 |:--|:--|
-| 1st | If you are on the BSP Council, your division VP or head; otherwise, the Vice-President (Events and Admin). They ask what happened, give a verbal warning, and report it to Mr Hoon in writing. |
-| 2nd | A meeting with the President and a teacher; a formal warning and a make-up task, such as watching the AT recording and writing a reflection. |
-| 3rd | A meeting with Mr Hoon; your parents and form teacher or civics tutor are told. |
-| 4th | You lose any EXCO, division head or committee post, and are not eligible to stand for EXCO or for an EAGLES nomination that year. Your parents are told again. **You remain a BLA member.** |
+| 第一次 | 活动与行政副主席了解原因并口头警告，再以书面形式向BLA老师报告。 |
+| 第二次 | 与主席及一位BLA老师面谈；正式警告，并安排补偿任务（如观看AT录影并提交心得）。 |
+| 第三次 | 与BLA老师面谈；通知家长及班主任/公民导师。 |
+| 第四次 | 撤销执委或筹委职位；当年不得参选执委，也不获EAGLES提名；再次通知家长。**保留会员身份。** |
 
-- **Attendance fraud**, such as signing in for someone or forwarding a sign-in link, starts at the 2nd step for both students.
-- **Serious misconduct**, such as dishonesty or bullying, is handled under the school's discipline process, not by BLA.
-- **Ending the year below 70%** means a conversation with Mr Hoon. You are also not eligible for an EAGLES nomination that year, or to stand for EXCO at the next renewal (see [Becoming EXCO](#becoming-exco)).
+- **出席作弊**（替他人签到、把签到链接转发给缺席者）：双方直接从第二级开始处理。
+- **严重行为问题**（如不诚实、欺凌）由学校纪律程序处理，不属BLA处理范围。
+- **年终出席率低于70%：**须与BLA老师面谈；当年不获EAGLES提名，也不能参加下一次执委换届（见[成为执委](#becoming-exco)）。
 
-{: .tip }
-**If something is going on, tell us.** Missing activities is sometimes a sign that schoolwork or something else is weighing on you. If so, the EXCO will let Mr Hoon know. He will check in with your form teacher or the school counsellor, and the steps above are put on hold.
+{: .tip_zh }
+**有困难，请告诉我们。**经常缺席有时是因为课业或其他事情带来压力。若是如此，执委会告知BLA老师；老师会联系你的班主任或学校辅导员，上述处理也会暂停。
 
-Based on SOP 7
+依据：SOP 7
 {: .bla-source }
 
-## Becoming EXCO
+## 成为执委 {#becoming-exco}
 
-The new EXCO is chosen in Term 2 and takes over at the handover ceremony at the first AT in July, for one year.
+新一届执委于第二学段选出，在七月的第一个AT举行交接仪式后接任，任期一年。
 
-**Who can stand:** JC1 members who have not lost a post this year and had at least 70% attendance last year. If you are already President or Vice-President of another academy, you should not also take one of those posts in BLA.
+**参选资格：**高一会员；当年未被撤销职位，且上一年出席率不低于70%。已在其他学研中心担任主席或副主席者，不宜兼任BLA主席或副主席。
 
-| When | What happens |
+| 时间 | 事项 |
 |:--|:--|
-| Mid-April | The outgoing President sends JC1 members an interest form. |
-| End of April | The form closes. Teachers and division heads may also nominate members. |
-| First week of May | Group interviews with the outgoing EXCO and teachers. |
-| A week later | Teachers decide who joins the EXCO; candidates are told privately. |
-| The week after | Successful candidates make a campaign video of up to 3 minutes about their vision for BLA. |
-| Mid-May | All members watch the videos and vote online for the President. |
-| Late May | Teachers assign the other posts, and the new EXCO is announced. |
-| First AT in July | Handover ceremony. Outgoing EXCO members may serve on the Advisory Committee until December. |
+| 4月中旬 | 卸任主席向高一会员发出意愿表格。 |
+| 4月底 | 表格截止；老师与执委也可推荐人选。 |
+| 5月第一周 | 由卸任执委与老师进行小组面试。 |
+| 一周后 | 老师确定执委人选，私下通知结果。 |
+| 再一周后 | 入选者制作不超过3分钟的竞选视频，阐述对BLA的愿景。 |
+| 5月中旬 | 全体会员线上观看视频并投票选出主席。 |
+| 5月下旬 | 老师分配其他职位，公布新一届执委名单。 |
+| 7月第一个AT | 举行交接仪式；卸任执委可自愿担任咨询团队成员，至12月为止。 |
 
-Interviews are scored on five criteria, each out of 3: communication, teamwork, visionary leadership, action management and adaptability.
+面试采用五项标准，每项满分3分：沟通能力、团队协作、前瞻性领导、行动管理、应变能力。
 
-Based on SOP 9
+依据：SOP 9
 {: .bla-source }
 
-## Your personal data
+## 个人资料 {#your-personal-data}
 
-- Excusal forms ask only for what is needed: your name, class, reason, and the responsible teacher's name and email. For medical reasons, writing "medical" is enough; you do not need to give details.
-- Files with your details are shared only with named people, never with "anyone with the link".
-- The announcement group shows your name and whether your request was approved, but not your reason.
+- 请假单只收集必要资料：姓名、班级、原因，以及负责老师的姓名与电邮。就医只需写“就医/病假”，不必写病情。
+- 含个人资料的文件只开放给指定人士，不开放给“任何持有链接者”。
+- 公告群只公布姓名和审批结果（批准/不批准），不公开请假原因。
 
-Based on SOP 8
+依据：SOP 8
 {: .bla-source }
 
-## Who to ask
+## 有疑问找谁 {#who-to-ask}
 
-| For… | Ask |
+| 事项 | 联系 |
 |:--|:--|
-| Notices, excusal forms, roll call | The Vice-President (Events and Admin) |
-| Reminders, and anything to do with your division | Your division Vice-President or head |
-| Decisions on excusals, membership and CCA records | Mdm Wan Chiew Inn <span lang="zh-Hans">黄秋莺老师</span>, teacher-in-charge |
-| CCA records in School Cockpit, missing lessons for BLA, discipline | Mr Randall Hoon <span lang="zh-Hans">洪耀通老师</span> |
-| Your attendance record | Mr Mark Loh Yihao <span lang="zh-Hans">卢乙豪老师</span> |
+| 活动通知、提醒、请假单、点名 | 活动与行政副主席 |
+| 请假审批、会员资格、CCA记录的裁定 | 负责老师（TIC） |
+| 出席记录、School Cockpit的CCA记录、为BLA活动向课程请假 | 任何一位BLA老师 |

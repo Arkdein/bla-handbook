@@ -8,7 +8,7 @@ The handbook of the Bicultural Leaders Academy (BLA, 双文化领袖学研中心
 
 ## Who it is for
 
-Members (Sec 3 to JC2), new members and their parents. It is a **public** website: anyone with the address can read it.
+Members (Sec 3 to JC2), new members and their parents. Chinese is the default language; every page has an English version. It is a **public** website: anyone with the address can read it.
 
 The full Administrative SOP is **not** on this site. The "For Teachers and EXCO" page links to the Google Doc, which only BLA teachers and current EXCO members can open.
 
@@ -16,8 +16,8 @@ The full Administrative SOP is **not** on this site. The "For Teachers and EXCO"
 
 | File | What it is |
 |---|---|
-| `index.md`, `about.md`, `key-dates.md`, `members-guide.md`, `teachers-and-exco.md` | English pages |
-| `zh/` | The matching Chinese pages (same names), listed under 中文版 in the sidebar |
+| `index.md`, `about.md`, `key-dates.md`, `members-guide.md`, `teachers-and-exco.md` | Chinese pages (the default) |
+| `en/` | The matching English pages (same names), listed under English in the sidebar |
 | `_data/key_dates.csv` | **All the dates.** Both Key Dates pages and the calendar file are built from it |
 | `_data/periods.yml` | Term headings used on the Key Dates pages |
 | `calendar.ics` | The subscribable calendar (built from the CSV; don't edit by hand) |
