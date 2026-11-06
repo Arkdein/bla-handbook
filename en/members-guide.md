@@ -68,7 +68,7 @@ If you cannot attend, or will be late or leave early, apply through **that activ
 ### Deadline
 
 {: .deadline }
-Excusal forms close at **11.59 pm, one week before the activity**. This applies to every activity, including flagship events and requests to miss lessons or another CCA.
+Excusal forms close at **11.59 pm, one week before the activity** (for a Monday activity, 11.59 pm on the Monday before). This applies to every activity, including flagship events and requests to miss lessons or another CCA.
 
 The decision is posted in the announcement group a few days before the activity. If your request is not approved, you are expected to attend.
 

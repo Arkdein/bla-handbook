@@ -48,4 +48,4 @@ The SOP is bilingual: the full Chinese text comes first, followed by the full En
 
 ## EXCO access
 
-EXCO members can view the SOP document itself. They do not have access to the teachers' records folder, except that the Vice-President (Events and Admin) can edit that year's attendance and excusal files (SOP 8). At each handover, access to the SOP moves from the outgoing EXCO to the incoming EXCO.
+EXCO members can view the SOP document itself, but not the teachers' records folder. The one exception is the Vice-President (Events and Admin), who sets up and manages each activity's excusal form, can edit that year's attendance record, and handles the handover, retention and clean-up of these files (SOP 8). At each handover, teachers remove the outgoing EXCO's access to the SOP and give it to the incoming EXCO.

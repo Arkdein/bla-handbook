@@ -58,7 +58,7 @@ A bicultural leader needs all three kinds of knowledge and skill below. Most BLA
 
 | | Competency | What it means |
 |:--|:--|:--|
-| <span class="bla-pac bla-pac-p">P</span> | **Proficiency in Chinese and English** <span lang="zh-Hans">（中英语表达能力）</span> | Bicultural leaders must be able to express themselves well in both languages. BLA gives members platforms beyond the classroom to speak, write and present in Chinese. |
+| <span class="bla-pac bla-pac-p">P</span> | **Proficiency in Chinese and English** <span lang="zh-Hans">（中英双语能力）</span> | Bicultural leaders must be able to express themselves well in both languages. BLA gives members platforms beyond the classroom to speak, write and present in Chinese. |
 | <span class="bla-pac bla-pac-a">A</span> | **Appreciation of Chinese History, Culture and Values** <span lang="zh-Hans">（华族历史文化鉴赏能力）</span> | To engage meaningfully with Chinese counterparts, and to know where they stand in the world, members need a sound grasp of Chinese history and culture and a grounding in Chinese values. |
 | <span class="bla-pac bla-pac-c">C</span> | **Cross-Cultural Skills and Global Awareness** <span lang="zh-Hans">（跨文化技能与环球意识）</span> | Through forums and learning journeys, members learn to see the dynamics within and beyond Singapore and China in the wider context of global affairs, and to work across cultural differences. |
 
@@ -67,7 +67,7 @@ A bicultural leader needs all three kinds of knowledge and skill below. Most BLA
 | Programme | PAC | What it is |
 |:--|:--|:--|
 | Academy Time (AT) | <span class="bla-pac bla-pac-p">P</span> <span class="bla-pac bla-pac-a">A</span> <span class="bla-pac bla-pac-c">C</span> | Sharings, workshops and talks planned and led by members. Each session's proposal states which part of PAC it serves. |
-| Research projects and the BLA Symposium (flagship) | <span class="bla-pac bla-pac-p">P</span> <span class="bla-pac bla-pac-a">A</span> <span class="bla-pac bla-pac-c">C</span> | Members carry out an independent research project, analysing Chinese and Western cultures and Singapore–China politics, economics and society through a bicultural lens, and present it to peers and invited experts. |
+| Research projects and the BLA Symposium (flagship) | <span class="bla-pac bla-pac-p">P</span> <span class="bla-pac bla-pac-a">A</span> <span class="bla-pac bla-pac-c">C</span> | Secondary BSP members carry out an independent research project, analysing Chinese and Western cultures and Singapore–China politics, economics and society through a bicultural lens, and present it to peers and invited experts. |
 | China Studies Perspectives Forum (flagship) | <span class="bla-pac bla-pac-c">C</span> | A bilingual forum co-organised with Business China, where speakers with Eastern and Western perspectives discuss current China-related issues with students from RVHS and other schools. |
 | Lectures @RVHS | <span class="bla-pac bla-pac-a">A</span> <span class="bla-pac bla-pac-c">C</span> | Talks by invited speakers on Chinese culture, contemporary China and East–West issues. |
 | Learning journeys | <span class="bla-pac bla-pac-c">C</span> | Visits to organisations, including companies with business interests in China. |
