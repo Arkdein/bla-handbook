@@ -6,7 +6,7 @@ permalink: /zh/
 lang: zh-Hans
 owner: 洪耀通老师
 last_reviewed: 2026年11月
-description: 立化中学双文化领袖学研中心（BLA）会员手册。
+description: 立化中学双文化领袖学研中心（BLA）手册。
 translation: /
 translation_label: English
 translation_lang: en
@@ -14,7 +14,7 @@ translation_lang: en
 
 {% include lang-switch.html %}
 
-# BLA会员手册
+# BLA手册
 {: .fs-9 }
 
 立化中学 双文化领袖学研中心 · Bicultural Leaders Academy
@@ -37,7 +37,7 @@ translation_lang: en
 ## BLA概览
 
 - **Academy Time（AT）在星期一举行。**透视中国学生双语论坛、节庆活动，以及由教育部或其他学校主办的活动，可能安排在其他日子。[查看重要日期](key-dates.md)。
-- **每年须出席至少70%的BLA活动**，并出席两项旗舰活动：透视中国学生双语论坛和BLA研讨会。
+- **每年须出席至少70%的BLA活动**，并出席两项旗舰活动：透视中国学生双语论坛和BLA研讨会。这两项活动的请假审批标准从严。
 - **无法出席？**请在截止日期前通过该活动的请假单申请。[如何申请](members-guide.md#cant-attend-applying-for-an-excusal)。
 - **中三、高一新会员在第二学段入会**，并出席联合迎新会。
 - **高二会员**下半年无需出席AT，但保留会员身份至毕业。

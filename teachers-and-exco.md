@@ -19,7 +19,7 @@ The full rules for running BLA are in the **BLA Administrative SOP** <span lang=
 [Open the Administrative SOP]({{ site.sop_url }}){: .btn .btn-primary }
 
 {: .note }
-Only BLA teachers and current EXCO members can open the SOP. Teachers sign in with their MOE account; EXCO members sign in with their iCON (students.edu.sg) account. If you are refused, ask Mr Randall Hoon for access.
+The SOP is shared only with BLA teachers and current EXCO members, by name. Teachers sign in with their MOE account; EXCO members sign in with their iCON (students.edu.sg) account. If you are refused, ask Mr Randall Hoon for access.
 
 ## What the SOP covers
 
@@ -46,4 +46,4 @@ The SOP is bilingual: the full Chinese text comes first, followed by the full En
 
 ## EXCO access
 
-EXCO members get view access to the SOP document itself, not to the teachers' "BLA Admin (for TICs only)" folder, which holds school records. At each handover, the outgoing EXCO's access is removed and the incoming EXCO's access is added (SOP 9).
+EXCO members can view the SOP document itself. They do not have access to the teachers' records folder, except that the Vice-President (Events and Admin) can edit that year's attendance and excusal files (SOP 8). At each handover, access to the SOP moves from the outgoing EXCO to the incoming EXCO.

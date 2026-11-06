@@ -31,19 +31,19 @@ This guide is a summary of BLA's Administrative SOP, written for members. If the
 Every member:
 
 - attends **at least 70%** of BLA activities in the year;
-- attends both **flagship events**, the China Studies Perspectives Forum and the BLA Symposium, unless there is an emergency.
+- attends both **flagship events**, the China Studies Perspectives Forum and the BLA Symposium. Excusal requests for these are judged more strictly (see [what is usually approved](#what-is-usually-approved)).
 
 Depending on how you joined, you also have these commitments:
 
 | You are… | Also expected |
 |:--|:--|
-| A secondary BSP or Literature student | Complete one research project a year. |
+| A secondary student taking the Bicultural Studies Programme (BSP) or Literature | Complete one research project a year. |
 | A JC member | Complete a research project, or earn Academic Unit (AU) credits instead. |
 | A member of the BSP Council | Join a division, and help organise at least one BLA activity a year. |
 
-**JC2 members** are excused from Academy Time in Semester 2 and stay members until they graduate.
+**JC2 members** are excused from Academy Time in the second half of the year and stay members until they graduate.
 
-Based on SOP 1 (scope) and SOP 6
+Based on the SOP introduction (scope) and SOP 6
 {: .bla-source }
 
 ## How you'll hear about activities
@@ -53,7 +53,7 @@ Notices are posted in the **BLA announcement group**, with the excusal form atta
 - **2 weeks before** an Academy Time session;
 - **4 weeks before** a flagship event, and before any activity that means missing lessons or another CCA.
 
-The notice gives the date, time, venue and agenda. A reminder comes the day before. The year's dates are on [Key Dates](key-dates.md).
+The notice gives the date, time, venue and agenda. A reminder comes the day before (for flagship events, also a week before). The year's dates are on [Key Dates](key-dates.md).
 
 Based on SOP 1
 {: .bla-source }
@@ -67,19 +67,19 @@ If you cannot attend, or will be late or leave early, apply through **that activ
 | Activity | Form closes |
 |:--|:--|
 | Academy Time | Friday 11.59 pm, 10 days before the session |
-| Flagship event | 3 weeks before the event |
+| Flagship events, and any activity that needs you to miss lessons or another CCA | 3 weeks before the event |
 
-You will see the decision in the announcement group about a week before an AT session (2 weeks before a flagship event). If your request is not approved, you are expected to attend.
+You will see the decision in the announcement group about a week before an AT session (2 weeks before a flagship event, or an activity that needs lesson or CCA excusals). If your request is not approved, you are expected to attend.
 
 ### What to write
 
 1. Your Chinese and English names, and your class.
 2. Whether you will be absent, late or leaving early, and the time you will arrive or leave.
-3. **A specific reason**: what the activity is, when it is, and your role. For example, *"NSG semi-final, starting player"*. Requests that just say "CCA" or "Lesson" are sent back.
+3. **A specific reason**: what the activity is, when it is, and your role. For example, *"National School Games (NSG) semi-final, starting player"*. Requests that just say "CCA" or "Lesson" are sent back.
 4. The name and email of the teacher in charge of the clashing activity.
 
 {: .important }
-**Emergencies only after the deadline.** If you fall sick or have a family emergency, tell your division head or an EXCO member by the day of the activity at the latest, and submit supporting documents afterwards.
+**Emergencies only after the deadline.** If you fall sick or have a family emergency, tell your division head (if you have one) or any EXCO member by the day of the activity at the latest, and submit supporting documents afterwards. If you miss an activity without an approved excusal, your division VP or head, or the Vice-President (Events and Admin), will contact you within a week to ask why. A genuine emergency can still be changed to an approved absence by the teacher-in-charge.
 
 ### What is usually approved
 
@@ -95,15 +95,15 @@ These are based on teachers' actual decisions in 2025 and 2026. Flagship events 
 | A key role in another CCA (e.g. EXCO, trainer) | Case by case |
 | A clash with another academy's activity | Approved the first time; BLA takes priority the next time |
 | Routine training in another CCA | AT: case by case. Flagship events: not approved |
-| Large events such as NDC | Case by case: can someone else take your place? |
+| Large events such as National Day Celebrations | Case by case: can someone else take your place? |
 | Voluntary service | Not approved |
 | Private tuition or lessons | Not approved |
 | Leaving soon after the activity starts | Not approved; apply for a full absence if you have a valid reason |
 
 <details class="bla-more" markdown="1">
-<summary>You can't make AT every week because of a fixed commitment</summary>
+<summary>A fixed weekly commitment keeps you from AT</summary>
 
-If something fixed (for example, a weekly O-level Music lesson on Mondays) keeps you from AT all year, tell the EXCO. They will arrange another way for you to take part, such as AT slides on Google Classroom with a reflection form, or a role in planning an event.
+If something fixed (for example, a weekly O-level Music lesson on Mondays) regularly keeps you from AT, tell the EXCO. They will arrange another way for you to take part, such as AT slides on Google Classroom with a reflection form, or a role in planning an event.
 
 </details>
 
@@ -112,14 +112,14 @@ Based on SOP 2
 
 ## Missing lessons or another CCA for BLA
 
-Some activities, such as the China Studies Perspectives Forum or rehearsals, start before school ends. When that happens:
+Some BLA activities take place during lesson or CCA time: events that start before school ends (such as the China Studies Perspectives Forum), rehearsals, and committee work days. When that happens:
 
 1. **List every clash** in the "lesson/CCA" tab of the same excusal form, by 3 weeks before the event: the lesson or CCA, the time, and the teacher's name and email. Use one row for each lesson.
 2. **Mr Hoon emails each teacher** 2 weeks before the event.
-3. **Do not skip a lesson** unless the teacher has agreed. If the teacher says no, attend the lesson; your BLA absence is then counted as approved.
+3. **Do not skip a lesson** unless the teacher has agreed. The teacher's decision always applies: if the teacher says no, attend the lesson, and your BLA absence is counted as approved.
 4. **Catch up** on any work you miss.
 
-**When things clash, this order applies:** school exams → representing the school in competitions → BLA flagship events → timetabled lessons → routine CCA training.
+**When BLA plans around clashes, this is the order of priority:** school exams → representing the school in competitions → BLA flagship events → timetabled lessons → routine CCA training.
 
 Based on SOP 3
 {: .bla-source }
@@ -154,9 +154,11 @@ Based on SOP 4
 Only two things go into your **school CCA record**:
 
 - an **EXCO post** (President, Vice-President or division head), with its term (July to July);
-- a role on the **Chinese New Year or Mid-Autumn Festival** organising committee, which BLA runs for the whole school.
+- a role on the **Chinese New Year or Mid-Autumn Festival** organising committee, which BLA runs for the whole school. Only members who actually took part in the organising are recorded.
 
-Everything else you do in BLA, such as organising the China Studies Perspectives Forum, the Symposium, orientation or the handover, leading AT sessions, or your research project, is recorded in your **BLA portfolio**. Teachers use the portfolio when choosing the EXCO, nominating members for EAGLES awards and writing testimonials.
+If a post is withdrawn, it is recorded only for the time you actually held it.
+
+Everything else you do in BLA, such as organising the China Studies Perspectives Forum, the Symposium, orientation or the handover, leading AT sessions, or your research project, is recorded in your **BLA portfolio**. Teachers use the portfolio when choosing the EXCO, making nominations for the school's EAGLES awards and writing testimonials.
 
 Based on SOP 5
 {: .bla-source }
@@ -171,10 +173,10 @@ Based on SOP 5
 | A secondary Literature student | Opt in |
 | A JC student taking H2 Chinese Language and Literature, Translation or China Studies in Chinese | Apply |
 | A JC student who took BSP or Literature in secondary school | Apply |
-| A BSP scholarship holder | Join the BSP Council and a division |
-| Any other member | Apply to join the BSP Council |
+| A BSP scholarship holder | Compulsory: join the BSP Council and one division |
+| Not a BSP scholarship holder | Apply to join the BSP Council |
 
-**JC1 students** hear about BLA at JC Primer Day in Term 1 and apply through a form. All new members, Sec 3 and JC1, join together at the orientation in Term 2.
+**JC1 students** hear about BLA at JC Primer Day in Term 1 and apply through a form; the teacher-in-charge approves applications. All new members, Sec 3 and JC1, join together at the orientation in Term 2.
 
 ### Divisions
 
@@ -199,14 +201,14 @@ An unexcused absence, not finishing work you were given without explaining why, 
 
 | Breach | What happens |
 |:--|:--|
-| 1st | Your division head (or the VP for Events and Admin) asks what happened and gives a verbal warning. |
+| 1st | If you are on the BSP Council, your division VP or head; otherwise, the Vice-President (Events and Admin). They ask what happened, give a verbal warning, and report it to Mr Hoon in writing. |
 | 2nd | A meeting with the President and a teacher; a formal warning and a make-up task, such as watching the AT recording and writing a reflection. |
 | 3rd | A meeting with Mr Hoon; your parents and form teacher or civics tutor are told. |
-| 4th | You lose any EXCO, division head or committee post, and cannot stand for EXCO or be nominated for EAGLES that year. Your parents are told again. **You remain a BLA member.** |
+| 4th | You lose any EXCO, division head or committee post, and are not eligible to stand for EXCO or for an EAGLES nomination that year. Your parents are told again. **You remain a BLA member.** |
 
 - **Attendance fraud**, such as signing in for someone or forwarding a sign-in link, starts at the 2nd step for both students.
 - **Serious misconduct**, such as dishonesty or bullying, is handled under the school's discipline process, not by BLA.
-- **Ending the year below 70%** means a conversation with Mr Hoon, and you cannot stand for EXCO or be nominated for EAGLES that year.
+- **Ending the year below 70%** means a conversation with Mr Hoon. You are also not eligible for an EAGLES nomination that year, or to stand for EXCO at the next renewal (see [Becoming EXCO](#becoming-exco)).
 
 {: .tip }
 **If something is going on, tell us.** Missing activities is sometimes a sign that schoolwork or something else is weighing on you. If so, the EXCO will let Mr Hoon know. He will check in with your form teacher or the school counsellor, and the steps above are put on hold.
@@ -226,12 +228,12 @@ The new EXCO is chosen in Term 2 and takes over at the handover ceremony at the 
 | End of April | The form closes. Teachers and division heads may also nominate members. |
 | First week of May | Group interviews with the outgoing EXCO and teachers. |
 | A week later | Teachers decide who joins the EXCO; candidates are told privately. |
-| The week after | Candidates make a campaign video of up to 3 minutes about their vision for BLA. |
+| The week after | Successful candidates make a campaign video of up to 3 minutes about their vision for BLA. |
 | Mid-May | All members watch the videos and vote online for the President. |
-| Late May | The new EXCO is announced. |
-| First AT in July | Handover ceremony. The outgoing EXCO become the Advisory Committee until December. |
+| Late May | Teachers assign the other posts, and the new EXCO is announced. |
+| First AT in July | Handover ceremony. Outgoing EXCO members may serve on the Advisory Committee until December. |
 
-Interviews are scored on five criteria: communication, teamwork, visionary leadership, action management and adaptability.
+Interviews are scored on five criteria, each out of 3: communication, teamwork, visionary leadership, action management and adaptability.
 
 Based on SOP 9
 {: .bla-source }
@@ -240,7 +242,7 @@ Based on SOP 9
 
 - Excusal forms ask only for what is needed: your name, class, reason, and the responsible teacher's name and email. For medical reasons, writing "medical" is enough; you do not need to give details.
 - Files with your details are shared only with named people, never with "anyone with the link".
-- The announcement group shows only whether each request was approved, not your reason.
+- The announcement group shows your name and whether your request was approved, but not your reason.
 
 Based on SOP 8
 {: .bla-source }

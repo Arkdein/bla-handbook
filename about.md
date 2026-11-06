@@ -26,7 +26,7 @@ Why BLA exists, what we mean by "bicultural", and how BLA serves the school's vi
 
 ## Who we are
 
-River Valley High School was the first Chinese secondary school set up by the government (1956), and one of the first nine Special Assistance Plan (SAP) schools (1979). The Bicultural Studies Programme (BSP) has been one of the school's signature programmes since 2006.
+River Valley High School was the first Chinese secondary school set up by the government (1956), and was among the first schools given Special Assistance Plan (SAP) status (1979). The Bicultural Studies Programme (BSP) has been one of the school's signature programmes since the 2000s.
 
 The Bicultural Leaders Academy was set up in 2017 to bring the school's bicultural programmes together and to strengthen how the school identifies and develops bicultural talent. Its members are students from Sec 3 to JC2 who take the BSP, Literature or an H2 Chinese subject, or who took BSP or Literature in secondary school.
 
@@ -47,12 +47,12 @@ Being bicultural means more than knowing two languages. At RVHS we look at it th
 | Lens | What it means for a BLA member |
 |:--|:--|
 | **Singapore Chinese culture** | Embracing Chinese values and the cultural roots you come from, while recognising what makes the Singapore Chinese experience its own, compared with Chinese communities in mainland China, Hong Kong, Taiwan and elsewhere. |
-| **Contemporary China** | Understanding China's society and present-day developments while staying rooted in Singapore, and thinking about how that understanding can help Singapore build links with China. |
+| **Contemporary China** | Understanding China's society, culture and present-day developments while staying rooted in Singapore, and thinking about how that understanding can help Singapore build links with China. |
 | **East and West** | Understanding both Eastern and Western cultures, drawing on the best of each, and acting as a bridge across cultural differences. |
 
 ## The PAC framework
 
-A bicultural leader needs three kinds of knowledge and skill. Every BLA activity is designed around at least one of them.
+A bicultural leader needs all three kinds of knowledge and skill below. Most BLA activities are designed around at least one of them.
 
 <span class="bla-pac bla-pac-p">P</span> **Proficiency in Chinese and English** <span lang="zh-Hans">（中英语表达能力）</span>
 : Bicultural leaders must be able to express themselves well in both languages. BLA gives members platforms beyond the classroom to speak, write and present in Chinese.
@@ -78,7 +78,7 @@ A bicultural leader needs three kinds of knowledge and skill. Every BLA activity
 
 ### Our divisions
 
-BLA Council members each join one of three divisions, which share what they learn with members and the wider school through BLA's media platforms.
+BSP Council members each join one of three divisions, which share what they learn with members and the wider school through BLA's media platforms.
 
 | Division | Focus |
 |:--|:--|
@@ -120,7 +120,7 @@ The school's vision and BLA's mission point the same way: leaders **for Singapor
 
 ### Motto: <span lang="zh-Hans">立德立功 · 化愚化顽</span> {#motto}
 
-*Upholding virtues, contributing to society.* A bicultural education is meant to be used for others. BLA organises Chinese New Year and Mid-Autumn Festival for the whole school, and opens the China Studies Perspectives Forum to secondary, JC and university students from beyond RVHS.
+*Upholding Virtues, Contributing to Society.* A bicultural education is meant to be used for others. BLA organises Chinese New Year and Mid-Autumn Festival for the whole school, and opens the China Studies Perspectives Forum to students from other secondary schools, junior colleges and institutes of higher learning.
 
 ## Sources
 

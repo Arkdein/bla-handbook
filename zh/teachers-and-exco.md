@@ -21,7 +21,7 @@ translation_lang: en
 [打开《行政标准作业程序》]({{ site.sop_url }}){: .btn .btn-primary }
 
 {: .note_zh }
-只有BLA老师和现任执委才能打开这份文件。老师请用MOE账号登录，执委请用iCON（students.edu.sg）账号登录。如无法打开，请向洪耀通老师申请权限。
+这份文件只按姓名开放给BLA老师和现任执委。老师请用MOE账号登录，执委请用iCON（students.edu.sg）账号登录。如无法打开，请向洪耀通老师申请权限。
 
 ## SOP的内容 {#what-the-sop-covers}
 
@@ -31,7 +31,7 @@ SOP为双语文件：先是完整的中文版，后是完整的英文版。
 |:--|:--|:--|
 | 1 | 活动通知时间线 | [活动通知](members-guide.md#how-youll-hear-about-activities) |
 | 2 | 缺席BLA活动的请假申请 | [无法出席？](members-guide.md#cant-attend-applying-for-an-excusal) |
-| 3 | 为出席BLA活动向课程或其他CCA请假 | [为BLA活动请假](members-guide.md#missing-lessons-or-another-cca-for-bla) |
+| 3 | 为出席BLA活动向课程或其他CCA请假 | [为BLA活动向课程/CCA请假](members-guide.md#missing-lessons-or-another-cca-for-bla) |
 | 4 | 点名与School Cockpit出席记录 | [出席记录](members-guide.md#attendance) |
 | 5 | 学校CCA记录的认定 | [学校CCA记录](members-guide.md#what-counts-for-your-school-cca-record) |
 | 6 | 会员资格与CCA籍属 | [会员资格](members-guide.md#membership) |
@@ -48,4 +48,4 @@ SOP为双语文件：先是完整的中文版，后是完整的英文版。
 
 ## 执委的权限 {#exco-access}
 
-执委只获开放SOP文件本身的查看权限，不开放存放学校记录的老师文件夹《BLA Admin (for TICs only)》。每届交接时，移除卸任执委的权限，并开放给新任执委（见SOP 9）。
+执委只可查看SOP文件本身，不可进入存放学校记录的老师文件夹；唯一例外是活动与行政副主席可编辑当年的出席与请假文件（见SOP 8）。每届交接时，SOP的查看权限由卸任执委转给新任执委。

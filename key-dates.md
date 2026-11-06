@@ -19,12 +19,12 @@ BLA activities for the year. Academy Time is on Mondays unless stated.
 
 {% if site.dates_tentative %}
 {: .note }
-These dates are **tentative** until the school calendar for {{ site.dates_year }} is confirmed. Each activity's notice, sent 2 weeks before (4 weeks for flagship events), has the final date, time and venue.
+These dates are **tentative** until the school calendar for {{ site.dates_year }} is confirmed. Each activity's notice, sent 2 weeks before (4 weeks for flagship events and activities that need lesson excusals), has the final date, time and venue.
 {% endif %}
 
 ## Add these dates to your calendar
 
-Subscribe once and your calendar app will update itself when a date changes. Dates without a fixed day yet (marked "week of" or "mid-") are not in the calendar.
+Subscribe once and your calendar app will update itself when a date changes. Dates without a fixed day yet (marked "week of", "mid-" or "late") are not in the calendar.
 
 <div class="bla-start-here" markdown="1">
 [Subscribe (phone or Mac)](webcal://{{ site.url | remove: 'https://' | remove: 'http://' }}{{ site.baseurl }}/calendar.ics){: .btn .btn-primary }
@@ -43,8 +43,8 @@ Subscribe once and your calendar app will update itself when a date changes. Dat
 
 ## Good to know
 
-- **Term 1 activities are for Sec 4 and JC2 members.** New Sec 3 and JC1 members join at the orientation in Term 2.
-- **JC2 members** are excused from Academy Time in Semester 2.
+- **Most Term 1 activities are for Sec 4 and JC2 members.** New Sec 3 and JC1 members join at the orientation in Term 2.
+- **JC2 members** are excused from Academy Time in the second half of the year. For other activities, the notice says who is expected.
 - **Flagship events** are the China Studies Perspectives Forum and the BLA Symposium. Attend both unless there is an emergency.
 - For anything run by MOE or another school, the notice says who takes part.
 
