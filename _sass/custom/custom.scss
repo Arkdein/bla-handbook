@@ -62,7 +62,7 @@ body::before {
 .btn-primary { background-image: none; background-color: $bla-navy; }
 .btn-primary:hover { background-color: $bla-blue; }
 .bla-start-here, .bla-start-here p { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1rem 0 1.5rem; }
-.bla-start-here p { margin: 0; }
+.bla-start-here p { margin: 0; width: 100%; } // full width, so phone buttons span the screen whatever the label length
 .bla-start-here .btn { margin: 0 !important; min-height: 48px; display: inline-flex; align-items: center; justify-content: center; }
 @media (max-width: 31.25rem) { .bla-start-here .btn { width: 100%; } }
 
