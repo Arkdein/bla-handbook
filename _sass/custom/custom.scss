@@ -81,7 +81,7 @@ body::before {
 
 
 // Language switch (_includes/lang-switch.html)
-.bla-lang-switch { float: right; margin: 0 0 0.5rem 1rem; }
+.bla-lang-switch { float: right; margin: 0 0 0.5rem 1rem; position: relative; z-index: 2; } // above the page title, whose box (position: relative in the theme) otherwise swallows taps
 .bla-lang-switch .btn { font-size: 0.9rem !important; padding: 0.3rem 0.8rem; }
 
 // Tables and collapsible sections
