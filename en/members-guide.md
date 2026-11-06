@@ -33,7 +33,7 @@ This guide is a summary of BLA's Administrative SOP, written for members. If the
 Every member:
 
 - attends **at least 70%** of BLA activities in the year;
-- attends both **flagship events**, the China Studies Perspectives Forum and the BLA Symposium. Excusal requests for these are judged more strictly (see [what is usually approved](#what-is-usually-approved)).
+- attends both **flagship events**, the China Studies Perspectives Forum and the BLA Symposium. You may miss them only for an emergency or a reason that is usually approved (see [what is usually approved](#what-is-usually-approved)).
 
 Depending on how you joined, you also have these commitments:
 
@@ -41,7 +41,7 @@ Depending on how you joined, you also have these commitments:
 |:--|:--|
 | A secondary student taking the Bicultural Studies Programme (BSP) | Complete one research project a year. |
 | A secondary student taking Literature | Nothing beyond the commitments above. |
-| A JC member | Conduct a sharing during Academy Time. |
+| A JC member | Conduct one sharing during Academy Time while you are a member. |
 | A BSP scholar | On top of your research project or sharing, help organise at least one BLA activity a year. |
 
 **JC2 members** are excused from Academy Time in the second half of the year and stay members until they graduate.
