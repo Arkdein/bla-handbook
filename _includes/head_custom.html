@@ -1,0 +1,18 @@
+{%- if site.draft -%}
+<meta name="robots" content="noindex, nofollow">
+{%- else -%}
+<style>.bla-todo { display: none; }</style>
+{%- endif %}
+{%- comment -%} Chinese pages set lang: zh-Hans in their front matter, so screen readers and fonts switch to Chinese. {%- endcomment -%}
+{%- if page.lang %}
+<script>document.documentElement.lang = "{{ page.lang }}";</script>
+{%- endif %}
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+<meta name="theme-color" content="#001c58">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&display=swap">
+{%- if page.translation %}
+<link rel="alternate" hreflang="{{ page.translation_lang }}" href="{{ page.translation | absolute_url }}">
+{%- endif %}

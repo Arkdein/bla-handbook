@@ -1,0 +1,18 @@
+// -------------------------------------------------------------
+//  BLA colours, taken from the bridge logo - the ONLY place they are set.
+//  Loaded by every stylesheet the theme builds. The colour scheme
+//  (_sass/color_schemes/bla.scss) maps them onto the theme.
+//  Every text colour below meets WCAG AA (4.5:1) on its background.
+// -------------------------------------------------------------
+
+$bla-navy: #001c58;      // logo blue bridge; headings; 16.6:1 on white
+$bla-red: #a61f25;       // logo red bridge; accents (thin bars), red text; 7.4:1 on white
+$bla-blue: #0b4a8f;      // links; 8.8:1 on white
+$bla-tint: #f4f5f9;      // sidebar and table headers
+$bla-ink: #1f2933;       // body text; 14.8:1
+
+// Callout title colours, darkened so they meet AA on white
+$blue-300: $bla-blue;
+$red-300: $bla-red;
+$yellow-300: #7a4f00;
+$green-300: #1e6b34;

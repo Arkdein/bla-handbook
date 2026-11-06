@@ -1,0 +1,46 @@
+---
+layout: null
+permalink: /calendar.ics
+---
+{%- comment -%}
+  Calendar file built from _data/key_dates.csv. Rows marked approx = yes
+  (no fixed day yet) are left out. Members subscribe once; their calendar
+  app picks up changes by itself.
+{%- endcomment -%}
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//River Valley High School//BLA Handbook//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BLA {{ site.dates_year }}
+X-WR-TIMEZONE:Asia/Singapore
+{%- comment -%} DTSTAMP must be in UTC: the site runs on Singapore time (UTC+8, no daylight saving), so subtract 8 hours. {%- endcomment -%}
+{%- assign stamp = site.time | date: "%s" | minus: 28800 | date: "%Y%m%dT%H%M%SZ" %}
+{%- comment -%} Text values must escape commas and semicolons with a backslash. Captured, because Liquid strings treat backslashes differently in different versions. {%- endcomment -%}
+{%- capture esc_comma %}\,{% endcapture %}
+{%- capture esc_semi %}\;{% endcapture %}
+{%- for r in site.data.key_dates %}
+{%- unless r.approx == "yes" %}
+{%- assign last = r.end_date | default: r.date %}
+{%- if last == "" %}{% assign last = r.date %}{% endif %}
+{%- assign title = r.event_en | append: " / " | append: r.event_zh | replace: ",", esc_comma | replace: ";", esc_semi %}
+{%- assign desc = "For: " | append: r.for_en %}
+{%- if r.notes_en and r.notes_en != "" %}{% assign desc = desc | append: ". " | append: r.notes_en %}{% endif %}
+{%- assign desc = desc | replace: ",", esc_comma | replace: ";", esc_semi %}
+BEGIN:VEVENT
+UID:{{ r.date | date: "%Y%m%d" }}-{{ r.event_en | slugify }}@bla-handbook
+DTSTAMP:{{ stamp }}
+DTSTART;VALUE=DATE:{{ r.date | date: "%Y%m%d" }}
+DTEND;VALUE=DATE:{{ last | date: "%s" | plus: 86400 | date: "%Y%m%d" }}
+SUMMARY:{{ title }}
+DESCRIPTION:{{ desc }}
+{%- if site.dates_tentative %}
+STATUS:TENTATIVE
+{%- else %}
+STATUS:CONFIRMED
+{%- endif %}
+TRANSP:TRANSPARENT
+END:VEVENT
+{%- endunless %}
+{%- endfor %}
+END:VCALENDAR

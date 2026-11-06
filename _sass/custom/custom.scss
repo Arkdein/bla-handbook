@@ -1,0 +1,94 @@
+// -------------------------------------------------------------
+//  BLA Handbook custom styles. Colours come from _sass/custom/setup.scss.
+//  Keep this file short; check Home, Key Dates and the Member's Guide
+//  at phone width after any change.
+// -------------------------------------------------------------
+
+// Type: 16px minimum on phones, friendlier headings, CJK fallback fonts
+html { font-size: 1rem !important; }
+body {
+  line-height: 1.7;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+}
+h1, h2, h3, h4, .site-title, .btn {
+  font-family: "Plus Jakarta Sans", system-ui, -apple-system, "Segoe UI", Roboto, "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+}
+.main-content h1 { font-weight: 800; letter-spacing: -0.01em; }
+.main-content h2 { font-weight: 700; }
+.main-content h4 { text-transform: none; letter-spacing: normal; font-size: 1rem !important; }
+
+// Two thin bridge-coloured accents: red along the top of the page,
+// navy-and-red under every page title.
+body::before {
+  content: ""; position: absolute; top: 0; left: 0; right: 0; height: 4px;
+  background: $bla-red; z-index: 101; pointer-events: none;
+}
+.side-bar { box-shadow: inset 0 4px 0 $bla-red; }
+.main-content h1::after {
+  content: ""; display: block; width: 64px; height: 4px; margin-top: 0.5rem; border-radius: 2px;
+  background: linear-gradient(90deg, $bla-red 0 50%, $bla-navy 50% 100%);
+}
+
+// Brand lockup in the sidebar header (see _includes/title.html)
+.site-header { min-height: 4.75rem; }
+@media (min-width: 50rem) { .site-header { height: 4.75rem; max-height: 4.75rem; } }
+.bla-brand { display: flex; align-items: center; gap: 0.6rem; }
+.bla-logo { height: 2.6rem; width: auto; flex: none; }
+.bla-wordmark { display: flex; flex-direction: column; line-height: 1.15; }
+.bla-wordmark-main { font-weight: 800; font-size: 1.1rem; color: $bla-navy; }
+.bla-wordmark-sub { white-space: nowrap; font-size: 0.7rem; font-weight: 500; color: #4a5568; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+
+// Sidebar: red bar marks the current page
+.nav-list .nav-list-item > .nav-list-link.active { color: $bla-navy; box-shadow: inset 4px 0 0 $bla-red; }
+
+// Links: clearly underlined in body text; strong focus ring
+.main-content a:not(.btn) { text-decoration: underline; text-decoration-color: currentColor; text-underline-offset: 2px; }
+:focus-visible { outline: 3px solid $bla-blue !important; outline-offset: 2px; }
+
+// Buttons: bigger tap targets
+.btn { font-size: 1rem !important; padding: 0.55rem 1.1rem; border-radius: 6px; }
+.btn-primary { background-image: none; background-color: $bla-navy; }
+.btn-primary:hover { background-color: $bla-blue; }
+.bla-start-here, .bla-start-here p { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1rem 0 1.5rem; }
+.bla-start-here p { margin: 0; }
+.bla-start-here .btn { margin: 0 !important; min-height: 48px; display: inline-flex; align-items: center; justify-content: center; }
+@media (max-width: 31.25rem) { .bla-start-here .btn { width: 100%; } }
+
+// Home: logo
+.bla-hero { max-width: 320px; width: 70%; height: auto; margin: 0.5rem 0 1rem; }
+
+// Language switch (_includes/lang-switch.html)
+.bla-lang-switch { float: right; margin: 0 0 0.5rem 1rem; }
+.bla-lang-switch .btn { font-size: 0.9rem !important; padding: 0.3rem 0.8rem; }
+
+// Tables and collapsible sections
+th { background: $bla-tint; color: $bla-navy; }
+td, th { vertical-align: top; }
+details.bla-more { border: 1px solid $border-color; border-left: 4px solid $bla-navy; border-radius: 6px; padding: 0.6rem 1rem; margin: 0.6rem 0; background: #fff; }
+details.bla-more summary { font-weight: 600; color: $bla-navy; cursor: pointer; }
+details.bla-more[open] summary { margin-bottom: 0.5rem; }
+
+// PAC badges
+.bla-pac { display: inline-block; min-width: 1.6rem; text-align: center; font-weight: 700; font-size: 0.85rem; border-radius: 4px; padding: 0 0.35rem; margin-right: 0.15rem; color: #fff; background: $bla-navy; }
+.bla-pac-p { background: $bla-navy; }
+.bla-pac-a { background: $bla-red; }
+.bla-pac-c { background: #1e6b34; }
+
+// "Based on SOP n" source line under each Member's Guide section
+.bla-source { font-size: 0.8rem; color: #4a5568; margin-top: -0.25rem; }
+
+// Key dates table: dates never wrap mid-date on phones
+.bla-dates td:first-child { white-space: nowrap; font-variant-numeric: tabular-nums; }
+.bla-dates .bla-flagship { font-weight: 700; color: $bla-red; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.03em; }
+
+// TODO placeholders: neutral, so they don't look like "Important" boxes
+.bla-todo { background: #f6f7f9; border: 1px dashed #8a94a6; border-radius: 4px; color: #3c4656; padding: 0.4rem 0.8rem; font-size: 0.875rem; }
+
+// Page meta
+.bla-page-meta { font-size: 0.8rem; color: #4a5568; margin-top: 0.5rem; }
+
+// Footer band with the school motto
+.bla-footer { background: $bla-navy; color: #fff; border-radius: 8px; padding: 1rem 1.25rem; margin: 1rem 0; border-top: 4px solid $bla-red; }
+.bla-footer p { margin: 0.2rem 0; color: #fff; }
+.bla-footer .bla-motto { font-weight: 700; font-size: 1rem; }
+.bla-footer a { color: #fff !important; }

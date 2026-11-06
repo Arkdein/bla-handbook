@@ -1,0 +1,11 @@
+{%- comment -%}
+  Language switch, shown at the top right of every page that has a translation.
+  Set in the page's front matter, e.g. on about.md:
+    translation: /zh/about.html
+    translation_label: 中文
+    translation_lang: zh-Hans
+  then put {% include lang-switch.html %} on the first line under the front matter.
+{%- endcomment -%}
+{%- if page.translation -%}
+<p class="bla-lang-switch"><a class="btn" href="{{ page.translation | relative_url }}" lang="{{ page.translation_lang }}" hreflang="{{ page.translation_lang }}">{{ page.translation_label }}</a></p>
+{%- endif -%}

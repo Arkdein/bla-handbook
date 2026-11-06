@@ -1,0 +1,23 @@
+# Headings for the Key Dates tables, in the order they appear.
+# "code" matches the period column in key_dates.csv.
+- code: t1
+  en: Term 1
+  zh: 第一学段
+- code: mar
+  en: March holidays
+  zh: 三月假期
+- code: t2
+  en: Term 2
+  zh: 第二学段
+- code: jun
+  en: June holidays
+  zh: 六月假期
+- code: t3
+  en: Term 3
+  zh: 第三学段
+- code: sep
+  en: September holidays
+  zh: 九月假期
+- code: t4
+  en: Term 4
+  zh: 第四学段

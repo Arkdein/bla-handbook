@@ -1,0 +1,37 @@
+{%- comment -%}
+  Key dates tables, one per term, built from _data/key_dates.csv.
+  Use {% include dates-table.html lang="en" %} or lang="zh".
+{%- endcomment -%}
+{%- assign zh = false -%}{%- if include.lang == "zh" -%}{%- assign zh = true -%}{%- endif -%}
+{%- assign wd_en = "Sun,Mon,Tue,Wed,Thu,Fri,Sat" | split: "," -%}
+{%- assign wd_zh = "周日,周一,周二,周三,周四,周五,周六" | split: "," -%}
+{%- assign rows = site.data.key_dates | sort: "date" -%}
+{%- for p in site.data.periods -%}
+{%- assign prows = rows | where: "period", p.code -%}
+{%- if prows.size > 0 %}
+<h2 id="{{ p.code }}">{% if zh %}{{ p.zh }}{% else %}{{ p.en }}{% endif %}</h2>
+<div class="table-wrapper"><table class="bla-dates">
+<thead><tr>{% if zh %}<th>日期</th><th>活动</th><th>对象</th><th>备注</th>{% else %}<th>Date</th><th>Event</th><th>For</th><th>Notes</th>{% endif %}</tr></thead>
+<tbody>
+{%- for r in prows %}
+{%- assign w = r.date | date: "%w" | plus: 0 -%}
+<tr>
+<td>
+{%- if r.approx == "yes" -%}
+{%- if zh %}{{ r.when_zh }}{% else %}{{ r.when_en }}{% endif -%}
+{%- else -%}
+{%- if zh -%}
+{{ r.date | date: "%-m月%-d日" }}（{{ wd_zh[w] }}）{% if r.end_date and r.end_date != "" %}至{{ r.end_date | date: "%-m月%-d日" }}{% endif %}
+{%- else -%}
+{{ wd_en[w] }} {{ r.date | date: "%-d %b" }}{% if r.end_date and r.end_date != "" %} – {{ r.end_date | date: "%-d %b" }}{% endif %}
+{%- endif -%}
+{%- endif -%}
+</td>
+<td>{% if r.flagship == "yes" %}<span class="bla-flagship">{% if zh %}旗舰活动{% else %}Flagship{% endif %}</span><br>{% endif %}{% if zh %}{{ r.event_zh }}{% else %}{{ r.event_en }}{% endif %}</td>
+<td>{% if zh %}{{ r.for_zh }}{% else %}{{ r.for_en }}{% endif %}</td>
+<td>{% if zh %}{{ r.notes_zh }}{% else %}{{ r.notes_en }}{% endif %}</td>
+</tr>
+{%- endfor %}
+</tbody></table></div>
+{%- endif -%}
+{%- endfor %}
