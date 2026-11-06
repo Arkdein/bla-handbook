@@ -40,7 +40,7 @@ Depending on how you joined, you also have these commitments:
 | You are… | Also expected |
 |:--|:--|
 | A secondary student taking the Bicultural Studies Programme (BSP) | Complete one research project a year. |
-| A secondary student taking Literature | Nothing beyond the commitments above. |
+| A secondary student taking Chinese Literature | Nothing beyond the commitments above. |
 | A JC member | Conduct one sharing during Academy Time while you are a member. |
 | A BSP scholar | On top of your research project or sharing, help organise at least one BLA activity a year. |
 
@@ -171,9 +171,9 @@ Based on SOP 5
 | You are… | How you join |
 |:--|:--|
 | A secondary BSP student | Membership is compulsory |
-| A secondary Literature student | Opt in |
+| A secondary Chinese Literature student | Opt in |
 | A JC student taking H2 Chinese Language and Literature, Translation or China Studies in Chinese | Apply |
-| A JC student who took BSP or Literature in secondary school | Apply |
+| A JC student who took BSP or Chinese Literature in secondary school | Apply |
 
 **JC1 students** hear about BLA at JC Primer Day in Term 1 and apply through a form; the teacher-in-charge approves applications. All new members, Sec 3 and JC1, join together at the orientation in Term 2.
 
@@ -201,7 +201,7 @@ An unexcused absence, not finishing work you were given without explaining why, 
 | 3rd | A meeting with a BLA teacher; your parents and form teacher or civics tutor are told. |
 | 4th | You lose any EXCO or committee post, and are not eligible to stand for EXCO or for an EAGLES nomination that year. Your parents are told again. **You remain a BLA member.** |
 
-- **Attendance fraud**, such as signing in for someone or forwarding a sign-in link, is treated as a 2nd breach for both students.
+- **Attendance fraud**, such as answering roll call for someone else or misreporting attendance, is treated as a 2nd breach for both students.
 - **Serious misconduct**, such as dishonesty or bullying, is handled under the school's discipline process, not by BLA.
 - **Ending the year below 70%** means a conversation with a BLA teacher. You are also not eligible for an EAGLES nomination that year, or to stand for EXCO at the next renewal (see [Becoming EXCO](#becoming-exco)).
 

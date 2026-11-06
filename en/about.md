@@ -30,7 +30,7 @@ Why BLA exists, what we mean by "bicultural", and how BLA serves the school's vi
 
 River Valley High School was the first Chinese secondary school set up by the government (1956), and was among the first schools given Special Assistance Plan (SAP) status (1979). The Bicultural Studies Programme (BSP) has been one of the school's signature programmes since 2007.
 
-The Bicultural Leaders Academy was set up in 2017 to bring the school's bicultural programmes together and to strengthen how the school identifies and develops bicultural talent. Its members are students from Sec 3 to JC2 who take the BSP, Literature or an H2 Chinese subject, or who took BSP or Literature in secondary school.
+The Bicultural Leaders Academy was set up in 2017 to bring the school's bicultural programmes together and to strengthen how the school identifies and develops bicultural talent. Its members are students from Sec 3 to JC2 who take the BSP, Chinese Literature or an H2 Chinese subject, or who took BSP or Chinese Literature in secondary school.
 
 ### Our mission
 
