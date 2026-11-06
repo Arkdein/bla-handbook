@@ -79,7 +79,7 @@ A bicultural leader needs all three kinds of knowledge and skill below. Most BLA
 
 River Valley High School's vision is *Leaders of distinction for Singapore* <span lang="zh-Hans">（为国家培育卓越领袖）</span>. Its mission is *to nurture thinkers, leaders and achievers with good character, bicultural acumen and global perspective* <span lang="zh-Hans">（培养品行端正，慎思明辨，融贯中西，具环球视野的国家栋梁）</span>.
 
-BLA is one of the main places where the school develops the bicultural acumen and global perspective in that mission, and its own mission, bicultural leaders for Singapore, points the same way as the school's vision. The school's values, *pursuit of excellence, perseverance, people-centricity and proactiveness* <span lang="zh-Hans">（追求卓越、奋发图强、以人为本、自立自发）</span>, guide BLA members as they guide every RVian.
+BLA is one of the main places where the school develops the bicultural acumen and global perspective named in that mission. BLA's own mission, to groom bicultural leaders for Singapore, points the same way as the school's vision. The school's values, *pursuit of excellence, perseverance, people-centricity and proactiveness* <span lang="zh-Hans">（追求卓越、奋发图强、以人为本、自立自发）</span>, guide BLA members as they guide every RVian.
 
 ## Sources
 

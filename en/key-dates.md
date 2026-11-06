@@ -47,7 +47,7 @@ Subscribe once and your calendar app will update itself when a date changes. Dat
 
 - **Most Term 1 activities are for Sec 4 and JC2 members.** New Sec 3 and JC1 members join at the orientation in Term 2.
 - **JC2 members** are excused from Academy Time in the second half of the year. For other activities, the notice says who is expected.
-- **Flagship events** are the China Studies Perspectives Forum and the BLA Symposium. Attend both unless there is an emergency.
+- **Flagship events** are the China Studies Perspectives Forum and the BLA Symposium. Attend both unless there is an emergency or a reason that is usually approved.
 - For anything run by MOE or another school, the notice says who takes part.
 
 {% include dates-table.html lang="en" %}

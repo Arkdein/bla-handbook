@@ -20,11 +20,11 @@ translation_lang: en
 [打开《行政标准作业程序》]({{ site.sop_url }}){: .btn .btn-primary }
 
 {: .note_zh }
-这份文件只按姓名开放给BLA老师和现任执委。老师请用MOE账号登录，执委请用iCON（students.edu.sg）账号登录。如无法打开，请向BLA老师申请权限。
+这份文件只开放给指定的BLA老师和现任执委。老师请用MOE账号登录，执委请用iCON（students.edu.sg）账号登录。如无法打开，请向BLA老师申请权限。
 
 ## SOP的内容 {#what-the-sop-covers}
 
-SOP为双语文件：先是完整的中文版，后是完整的英文版。
+SOP为中英双语文件，前半部为中文版，后半部为英文版。
 
 | SOP | 主题 | 会员版摘要 |
 |:--|:--|:--|

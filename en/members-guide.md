@@ -201,7 +201,7 @@ An unexcused absence, not finishing work you were given without explaining why, 
 | 3rd | A meeting with a BLA teacher; your parents and form teacher or civics tutor are told. |
 | 4th | You lose any EXCO or committee post, and are not eligible to stand for EXCO or for an EAGLES nomination that year. Your parents are told again. **You remain a BLA member.** |
 
-- **Attendance fraud**, such as signing in for someone or forwarding a sign-in link, starts at the 2nd step for both students.
+- **Attendance fraud**, such as signing in for someone or forwarding a sign-in link, is treated as a 2nd breach for both students.
 - **Serious misconduct**, such as dishonesty or bullying, is handled under the school's discipline process, not by BLA.
 - **Ending the year below 70%** means a conversation with a BLA teacher. You are also not eligible for an EAGLES nomination that year, or to stand for EXCO at the next renewal (see [Becoming EXCO](#becoming-exco)).
 
