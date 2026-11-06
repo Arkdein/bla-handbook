@@ -48,7 +48,7 @@ Being bicultural means more than knowing two languages. At RVHS we look at it th
 
 | Lens | What it means for a BLA member |
 |:--|:--|
-| **Singapore Chinese culture** | Embracing Chinese values and the cultural roots you come from, while recognising what makes the Singapore Chinese experience its own, compared with Chinese communities in other places. |
+| **Singapore Chinese culture** | Embracing Chinese values and the cultural roots you come from, while recognising what makes the Singapore Chinese experience its own, compared with Chinese communities elsewhere. |
 | **Contemporary China** | Understanding China's society, culture and present-day developments while staying rooted in Singapore, and thinking about how that understanding can help Singapore build links with China. |
 | **East and West** | Understanding both Eastern and Western cultures, drawing on the best of each, and acting as a bridge across cultural differences. |
 
