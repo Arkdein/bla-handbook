@@ -1,0 +1,10 @@
+{%- comment -%}
+  Button to the evergreen BLA excusal form (one Google Form for every activity).
+  The link is set once in _config.yml as excusal_form_url. Until then, a short note shows instead.
+  Usage: {% include excusal-form.html lang="zh" %} or lang="en"
+{%- endcomment -%}
+{%- if site.excusal_form_url and site.excusal_form_url != "" -%}
+<div class="bla-start-here"><p><a class="btn btn-primary" href="{{ site.excusal_form_url }}">{% if include.lang == "en" %}Open the BLA excusal form{% else %}打开BLA请假表格{% endif %}</a></p></div>
+{%- else -%}
+<p><em>{% if include.lang == "en" %}The link to the BLA excusal form will appear here.{% else %}BLA请假表格的链接即将在这里公布。{% endif %}</em></p>
+{%- endif -%}

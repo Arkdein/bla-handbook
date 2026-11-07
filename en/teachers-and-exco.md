@@ -48,4 +48,4 @@ The SOP is bilingual: the full Chinese text comes first, followed by the full En
 
 ## EXCO access
 
-EXCO members can view the SOP document itself, but not the teachers' records folder. The one exception is the Vice-President (Events and Admin), who sets up and manages each activity's excusal form, can edit that year's attendance record, and handles the handover, retention and clean-up of these files (SOP 8). At each handover, teachers remove the outgoing EXCO's access to the SOP and give it to the incoming EXCO.
+EXCO members can view the SOP document itself, but not the teachers' records folder. The one exception is the Vice-President (Events and Admin), who is an editor of the BLA excusal form and its response sheet, adds each activity to the form before the notice goes out, can edit that year's attendance record, and handles the handover, retention and clean-up of these records (SOP 8). The excusal form is owned by a teacher, so it stays with BLA when the EXCO changes. At each handover, teachers remove the outgoing EXCO's access to the SOP and give it to the incoming EXCO.

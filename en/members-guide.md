@@ -51,7 +51,7 @@ Based on the SOP introduction (scope) and SOP 6
 
 ## How you'll hear about activities
 
-Notices are posted in the **BLA announcement group**, with the excusal form attached:
+Notices are posted in the **BLA announcement group**, with a link to the BLA excusal form:
 
 - **2 weeks before** an Academy Time session;
 - **4 weeks before** a flagship event, and before any activity that means missing lessons or another CCA.
@@ -63,21 +63,24 @@ Based on SOP 1
 
 ## Can't attend? Applying for an excusal
 
-If you cannot attend, or will be late or leave early, apply through **that activity's excusal form** before it closes. Any absence that has not been approved counts as an unexcused absence.
+If you cannot attend, or will be late or leave early, fill in the **BLA excusal form** and choose the activity, before the deadline. Every BLA activity uses the same form. Any absence that has not been approved counts as an unexcused absence.
+
+{% include excusal-form.html lang="en" %}
 
 ### Deadline
 
 {: .deadline }
-Excusal forms close at **11.59 pm, one week before the activity** (for a Monday activity, 11.59 pm on the Monday before). This applies to every activity, including flagship events and requests to miss lessons or another CCA.
+Excusals for each activity close at **11.59 pm, one week before the activity** (for a Monday activity, 11.59 pm on the Monday before). You can edit your submission until then. This applies to every activity, including flagship events and requests to miss lessons or another CCA.
 
 The decision is posted in the announcement group a few days before the activity. If your request is not approved, you are expected to attend.
 
 ### What to write
 
-1. Your Chinese and English names, and your class.
-2. Whether you will be absent, late or leaving early, and the time you will arrive or leave.
-3. **A specific reason**: what the activity is, when it is, and your role. For example, *"National School Games (NSG) semi-final, starting player"*. Requests that just say "CCA" or "Lesson" are sent back.
-4. The name and email of the teacher in charge of the clashing activity.
+1. Sign in with your **iCON account** (your email is recorded automatically), then give your Chinese and English names and your class.
+2. **Choose the activity.** One activity per submission; rehearsals are listed separately. If the activity is not listed, ask the Vice-President (Events and Admin).
+3. Whether you will be absent, late or leaving early, and the time you will arrive or leave.
+4. **The type of reason and the details**: what the activity is, when it is, and your role. For example, *"National School Games (NSG) semi-final, starting player"*. For medical reasons, "medical" is enough. Requests that just say "CCA" or "Lesson" are sent back.
+5. The name and email of the teacher in charge of the clashing activity.
 
 {: .important }
 **Emergencies only after the deadline.** If you fall sick or have a family emergency, tell the Vice-President (Events and Admin) or any EXCO member by the day of the activity at the latest, and submit supporting documents afterwards. If you miss an activity without an approved excusal, the Vice-President (Events and Admin) will contact you within a week to ask why. A genuine emergency can still be changed to an approved absence by the teacher-in-charge.
@@ -115,7 +118,7 @@ Based on SOP 2
 
 Some BLA activities take place during lesson or CCA time: events that start before school ends (such as the China Studies Perspectives Forum), rehearsals, and committee work days. When that happens:
 
-1. **List every clash** in the "lesson/CCA" tab of the same excusal form, by the same deadline (one week before the activity): the lesson or CCA, the time, and the teacher's name and email. Use one row for each lesson.
+1. **List every clash** in the lesson/CCA part of the BLA excusal form, by the same deadline (one week before the activity): the lesson or CCA, the time, and the teacher's name and email. Enter each lesson or CCA separately, up to three per submission; for more, submit again. If you will attend the BLA activity in full and only need to miss a lesson or CCA, choose the last option under "Your attendance".
 2. **A BLA teacher emails each affected teacher** after the deadline.
 3. **Do not skip a lesson** unless the teacher has agreed. The teacher's decision always applies: if the teacher says no, attend the lesson, and your BLA absence is counted as approved.
 4. **Catch up** on any work you miss.
@@ -235,7 +238,7 @@ Based on SOP 9
 
 ## Your personal data
 
-- Excusal forms ask only for what is needed: your name, class, reason, and the responsible teacher's name and email. For medical reasons, writing "medical" is enough; you do not need to give details.
+- The excusal form asks only for what is needed: your name, class, iCON email, reason, and the responsible teacher's name and email. For medical reasons, writing "medical" is enough; you do not need to give details.
 - Files with your details are shared only with named people, never with "anyone with the link".
 - The announcement group shows your name and whether your request was approved, but not your reason.
 
@@ -246,6 +249,6 @@ Based on SOP 8
 
 | For… | Ask |
 |:--|:--|
-| Notices, reminders, excusal forms, roll call | The Vice-President (Events and Admin) |
+| Notices, reminders, the activity list on the excusal form, roll call | The Vice-President (Events and Admin) |
 | Decisions on excusals, membership and CCA records | The teacher-in-charge |
 | Your attendance record, CCA records in School Cockpit, missing lessons for BLA | Any BLA teacher |

@@ -21,6 +21,8 @@ draft: true                                # ← EDIT at go-live
 # The Administrative SOP (Google Doc). Only BLA teachers and EXCO members
 # who have been given access can open it; everyone else is refused.
 sop_url: "https://docs.google.com/document/d/1nfX_KyN75VFOFkB5qq0k9B3hB80WvsKo9Hc9jf3AwsQ/edit"   # ← EDIT if the SOP moves
+# The evergreen BLA excusal form (one Google Form for every activity). Paste the student link (forms.gle/...) here.
+excusal_form_url: ""
 
 # Key dates: the year shown on the Key Dates pages and in the calendar file.
 # The dates themselves are in _data/key_dates.csv (see EDITING.md).

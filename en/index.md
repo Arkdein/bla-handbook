@@ -32,13 +32,14 @@ This handbook explains what BLA stands for, when things happen in the year, and 
 [About BLA](about.md){: .btn .btn-primary }
 [Key dates](key-dates.md){: .btn .btn-primary }
 [Member's guide](members-guide.md){: .btn .btn-primary }
+{% if site.excusal_form_url != "" %}[Apply for an excusal]({{ site.excusal_form_url }}){: .btn }{% endif %}
 </div>
 
 ## BLA at a glance
 
 - **Academy Time (AT) is on Mondays.** The China Studies Perspectives Forum, the festival celebrations and events run by MOE or other schools can fall on other days. [See the key dates](key-dates.md).
 - **Attend at least 70% of BLA activities each year**, and attend both flagship events: the China Studies Perspectives Forum and the BLA Symposium. You may miss them only for an emergency or a reason that is usually approved.
-- **Can't make it?** Apply through the event's excusal form before the deadline. [How to apply](members-guide.md#cant-attend-applying-for-an-excusal).
+- **Can't make it?** Apply through the BLA excusal form (the same form for every activity) before the deadline. [How to apply](members-guide.md#cant-attend-applying-for-an-excusal).
 - **New Sec 3 and JC1 members join in Term 2**, at the joint orientation.
 - **JC2 members** are excused from AT in the second half of the year, and stay members until they graduate.
 

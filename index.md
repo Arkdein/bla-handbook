@@ -34,13 +34,14 @@ translation_lang: en
 [关于BLA](about.md){: .btn .btn-primary }
 [重要日期](key-dates.md){: .btn .btn-primary }
 [会员指南](members-guide.md){: .btn .btn-primary }
+{% if site.excusal_form_url != "" %}[请假申请]({{ site.excusal_form_url }}){: .btn }{% endif %}
 </div>
 
 ## BLA概览
 
 - **Academy Time（AT）在星期一举行。**透视中国学生双语论坛、节庆活动，以及由教育部或其他学校主办的活动，则可能安排在其他日子。[查看重要日期](key-dates.md)。
 - **每年须出席至少70%的BLA活动**，并出席两项旗舰活动：透视中国学生双语论坛和BLA研讨会。除紧急情况或通常获准的请假原因外，不得缺席。
-- **无法出席？**请在截止日期前填写该活动的请假单。[如何申请](members-guide.md#cant-attend-applying-for-an-excusal)。
+- **无法出席？**请在截止日期前填写BLA请假表格（所有活动通用）。[如何申请](members-guide.md#cant-attend-applying-for-an-excusal)。
 - **中三、高一新会员在第二学段入会**，并出席联合迎新会。
 - **高二会员**下半年无需出席AT，但保留会员身份至毕业。
 
