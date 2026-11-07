@@ -78,7 +78,7 @@ The decision is posted in the announcement group a few days before the activity.
 
 1. Sign in with your **iCON account** (your email is recorded automatically), then give your Chinese and English names and your class.
 2. **Choose the activity.** One activity per submission; rehearsals are listed separately. If the activity is not listed, ask the Vice-President (Events and Admin).
-3. Whether you will be absent, late or leaving early, and the time you will arrive or leave.
+3. Whether you will be absent, late or leaving early. If late, give your arrival time; if leaving early, your leaving time; if absent, write "NA".
 4. **The type of reason and the details**: what the activity is, when it is, and your role. For example, *"National School Games (NSG) semi-final, starting player"*. For medical reasons, "medical" is enough. Requests that just say "CCA" or "Lesson" are sent back.
 5. The name and email of the teacher in charge of the clashing activity.
 
