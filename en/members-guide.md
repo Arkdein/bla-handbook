@@ -70,7 +70,7 @@ If you cannot attend, or will be late or leave early, fill in the **BLA excusal 
 ### Deadline
 
 {: .deadline }
-Excusals for each activity close at **11.59 pm, one week before the activity** (for a Monday activity, 11.59 pm on the Monday before). You can edit your submission until then. This applies to every activity, including flagship events and requests to miss lessons or another CCA.
+Excusals for each activity close at **11.59 pm, one week before the activity** (for a Monday activity, 11.59 pm on the Monday before). After you submit, a copy arrives in your iCON inbox; to change anything before the deadline, use the edit link in that email. This applies to every activity, including flagship events and requests to miss lessons or another CCA.
 
 The decision is posted in the announcement group a few days before the activity. If your request is not approved, you are expected to attend.
 
