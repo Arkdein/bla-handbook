@@ -244,10 +244,16 @@ BLA对会员的要求，以及各项事务的办理方法。
 依据：SOP 8
 {: .bla-source }
 
-## 有疑问找谁 {#who-to-ask}
+## 我该找谁？ {#who-to-ask}
 
-| 事项 | 联系 |
+| 如果你需要…… | 请找 |
 |:--|:--|
-| 活动通知、提醒、请假表格的活动选项、点名 | 活动与行政副主席 |
-| 请假审批、会员资格、CCA记录的裁定 | 负责老师（TIC） |
-| 出席记录、School Cockpit的CCA记录、为BLA活动向课程请假 | 任何一位BLA老师 |
+| 申请BLA活动请假，或为BLA活动向科任老师或CCA请假 | 填写[BLA请假表格]({{ site.excusal_form_url }})（所有活动通用） |
+| 跟进已提交的请假申请 | 活动与行政副主席：当面联系，或在星期一至星期五上午8时至下午6时之间发WhatsApp |
+| 其他事项，包括CCA记录、School Cockpit，或较敏感的事 | 任何一位BLA老师（见下方），找你觉得最方便开口的那位 |
+
+BLA老师：
+
+- 黄老师（负责老师）：[wan_chiew_inn@moe.edu.sg](mailto:wan_chiew_inn@moe.edu.sg)
+- 卢老师：[loh_yihao_mark@moe.edu.sg](mailto:loh_yihao_mark@moe.edu.sg)
+- 洪老师：[hoon_yao_tong_randall@moe.edu.sg](mailto:hoon_yao_tong_randall@moe.edu.sg)

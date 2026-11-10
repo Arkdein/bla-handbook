@@ -245,10 +245,16 @@ Based on SOP 9
 Based on SOP 8
 {: .bla-source }
 
-## Who to ask
+## Who do I ask? {#who-to-ask}
 
-| For… | Ask |
+| If you need to… | Go to |
 |:--|:--|
-| Notices, reminders, the activity list on the excusal form, roll call | The Vice-President (Events and Admin) |
-| Decisions on excusals, membership and CCA records | The teacher-in-charge |
-| Your attendance record, CCA records in School Cockpit, missing lessons for BLA | Any BLA teacher |
+| Apply for an excusal from a BLA activity, or from lessons or another CCA to attend one | The [BLA excusal form]({{ site.excusal_form_url }}) (one form for every activity) |
+| Follow up on an excusal you've already submitted | The Vice-President (Events and Admin), in person or on WhatsApp, Monday to Friday, 8am to 6pm |
+| Anything else, including CCA records, School Cockpit, or something sensitive | Any BLA teacher (below). Approach whoever you are most comfortable with. |
+
+BLA teachers:
+
+- Mdm Wan (teacher-in-charge): [wan_chiew_inn@moe.edu.sg](mailto:wan_chiew_inn@moe.edu.sg)
+- Mr Loh: [loh_yihao_mark@moe.edu.sg](mailto:loh_yihao_mark@moe.edu.sg)
+- Mr Hoon: [hoon_yao_tong_randall@moe.edu.sg](mailto:hoon_yao_tong_randall@moe.edu.sg)
