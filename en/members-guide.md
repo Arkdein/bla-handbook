@@ -194,7 +194,7 @@ Based on SOP 5
 ### Leaving
 
 - **Secondary members**, including BSP and Chinese Literature students, cannot leave.
-- **Members continuing from secondary BLA into JC1** may apply to leave in JC1 Term 1. If the teacher-in-charge approves, you leave at the start of Term 2. Until then, keep attending BLA activities: your attendance still counts.
+- **Members continuing from secondary BLA into JC1** may apply to leave in JC1 Term 1. If the teacher-in-charge approves, you leave at the start of Term 2. Until then, keep attending BLA activities: your attendance still counts. Note that members who stay in BLA for four years, from Sec 3 to JC2, receive a certificate from MOE when they graduate from RVHS. If you leave in JC1, you will not receive it.
 - **JC BSP scholarship holders** must take BLA as their first CCA and cannot leave (see "BLA as your CCA" above).
 - **Members who joined in JC** stay members until they graduate.
 
