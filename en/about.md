@@ -81,6 +81,10 @@ River Valley High School's vision is *Leaders of distinction for Singapore* <spa
 
 BLA is one of the main places where the school develops the bicultural acumen and global perspective named in that mission. BLA's own mission, to groom bicultural leaders for Singapore, points the same way as the school's vision. The school's values, *pursuit of excellence, perseverance, people-centricity and proactiveness* <span lang="zh-Hans">（追求卓越、奋发图强、以人为本、自立自发）</span>, guide BLA members as they guide every RVian.
 
+## How to join {#how-to-join}
+
+Secondary BSP students join automatically. Sec 3 Chinese Literature students and eligible JC students may apply in Term 1. See [Member's Guide: Who joins](members-guide.md#who-joins).
+
 ## Sources
 
 - [RVHS: Vision, Mission, Motto](https://www.rivervalleyhigh.moe.edu.sg/about-rv/vmm/) and [School Values and Spirit](https://rivervalleyhigh.moe.edu.sg/about-rv/svs/) (school website)

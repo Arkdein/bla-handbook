@@ -78,6 +78,10 @@ BLA成立的缘起、“双文化”的内涵，以及BLA如何体现学校的�
 
 在培养学生“融贯中西”“具环球视野”方面，BLA是学校的主要平台之一；BLA为新加坡培养双文化领袖的使命，也与学校的愿景一脉相承。学校的四项价值观——追求卓越、奋发图强、以人为本、自立自发——同样是每一位BLA会员的行为准则。
 
+## 如何加入 {#how-to-join}
+
+中学部BSP学生自动成为会员；中三修读华文文学的学生，以及符合条件的高中生，可在第一学段申请入会。详情请参阅[会员指南：入会方式](members-guide.md#who-joins)。
+
 ## 资料来源 {#sources}
 
 - 立化中学网站：[Vision, Mission, Motto](https://www.rivervalleyhigh.moe.edu.sg/about-rv/vmm/)、[School Values and Spirit](https://rivervalleyhigh.moe.edu.sg/about-rv/svs/)

@@ -23,6 +23,9 @@ draft: true                                # ← EDIT at go-live
 sop_url: "https://docs.google.com/document/d/1nfX_KyN75VFOFkB5qq0k9B3hB80WvsKo9Hc9jf3AwsQ/edit"   # ← EDIT if the SOP moves
 # The evergreen BLA excusal form (one Google Form for every activity). Paste the student link (forms.gle/...) here.
 excusal_form_url: "https://forms.gle/feeG97qtvG3Gs55C6"
+# Membership forms (student links, forms.gle/...). Leave "" until the forms exist; the pages then show a note instead.
+join_form_url: ""                          # BLA入会申请表 BLA Membership Application
+leave_form_url: ""                         # BLA退会申请表 BLA Withdrawal Request (JC1 Term 1 only)
 
 # Key dates: the year shown on the Key Dates pages and in the calendar file.
 # The dates themselves are in _data/key_dates.csv (see EDITING.md).

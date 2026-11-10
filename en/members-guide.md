@@ -173,12 +173,17 @@ Based on SOP 5
 
 | You are… | How you join |
 |:--|:--|
-| A secondary BSP student | Membership is compulsory |
-| A secondary Chinese Literature student | Opt in |
+| A secondary BSP student | Membership is compulsory (you join automatically) |
+| A secondary Chinese Literature student | Apply |
 | A JC student taking H2 Chinese Language and Literature, Translation or China Studies in Chinese | Apply |
 | A JC student who took BSP or Chinese Literature in secondary school | Apply |
+| A member continuing from secondary BLA into JC1 | You stay a member; no need to apply |
 
-**JC1 students** hear about BLA at JC Primer Day in Term 1 and apply through a form; the teacher-in-charge approves applications. All new members, Sec 3 and JC1, join together at the orientation in Term 2.
+**How to apply:** sign in with iCON, fill in the BLA membership application and write a statement of interest in Chinese, 150 to 300 characters. The teacher-in-charge decides on your statement and the places available, so not every application is accepted.
+
+**When:** applications open in Term 1 (JC1 students hear about BLA at JC Primer Day), and results are announced before the orientation in Term 2. All new members, Sec 3 and JC1, join together at the orientation.
+
+{% if site.join_form_url != "" %}[Fill in the BLA membership application]({{ site.join_form_url }}){: .btn }{% else %}*The link to the BLA membership application will appear here in Term 1.*{% endif %}
 
 ### BLA as your CCA
 
@@ -188,7 +193,12 @@ Based on SOP 5
 
 ### Leaving
 
-If your membership is compulsory, you cannot withdraw. Other members may apply to withdraw at the end of the school year, with the teacher-in-charge's approval. Withdrawing in the middle of the year is allowed only in special cases.
+- **Secondary members**, including BSP and Chinese Literature students, cannot leave.
+- **Members continuing from secondary BLA into JC1** may apply to leave in JC1 Term 1. If the teacher-in-charge approves, you leave at the start of Term 2. Until then, keep attending BLA activities: your attendance still counts.
+- **JC BSP scholarship holders** must take BLA as their first CCA and cannot leave (see "BLA as your CCA" above).
+- **Members who joined in JC** stay members until they graduate.
+
+{% if site.leave_form_url != "" %}JC1 members apply through the [BLA withdrawal request]({{ site.leave_form_url }}) in Term 1. Only BLA teachers can see what you write.{% else %}JC1 members apply through the BLA withdrawal request in Term 1. Only BLA teachers can see what you write.{% endif %} In any other special situation, speak to a BLA teacher (see [Who do I ask?](#who-to-ask)).
 
 Based on SOP 6
 {: .bla-source }
