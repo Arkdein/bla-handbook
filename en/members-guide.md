@@ -249,7 +249,7 @@ Based on SOP 8
 
 | If you need to… | Go to |
 |:--|:--|
-| Apply for an excusal from a BLA activity, or from lessons or another CCA to attend one | The [BLA excusal form]({{ site.excusal_form_url }}) (one form for every activity) |
+| Apply for an excusal from a BLA activity, or from lessons or another CCA to attend one | The [BLA excusal form]({{ site.excusal_form_url }}). The same form covers both kinds of excusal, for every activity. |
 | Follow up on an excusal you've already submitted | The Vice-President (Events and Admin), in person or on WhatsApp, Monday to Friday, 8am to 6pm |
 | Anything else, including CCA records, School Cockpit, or something sensitive | Any BLA teacher (below). Approach whoever you are most comfortable with. |
 
