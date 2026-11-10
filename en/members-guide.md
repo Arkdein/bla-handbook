@@ -226,20 +226,20 @@ Based on SOP 7
 
 ## Becoming EXCO
 
-The new EXCO is chosen in Term 2 and takes over at the handover ceremony at the first AT in July, for one year.
+The new EXCO is chosen in Term 2 and takes over at a handover ceremony held during an AT session in Term 3, for one year. See [Key dates](key-dates.md) for this year's dates.
 
 **Who can stand:** JC1 members who have not lost a post this year and had at least 70% attendance last year. If you are already President or Vice-President of another academy, you should not also take one of those posts in BLA.
 
 | When | What happens |
 |:--|:--|
-| Mid-April | The outgoing President sends JC1 members an interest form. |
-| End of April | The form closes. Teachers and EXCO members may also nominate members. |
-| First week of May | Group interviews with the outgoing EXCO and teachers. |
-| A week later | Teachers decide who joins the EXCO; candidates are told privately. |
-| The week after | Successful candidates make a campaign video of up to 3 minutes about their vision for BLA. |
-| Mid-May | All members watch the videos and vote online for the President. |
+| Orientation (start of Term 2) | EXCO applications open; the outgoing President sends JC1 members an interest form. |
+| About three weeks later | Applications close. Teachers and EXCO members may also nominate members. |
+| Late April to mid-May | Group interviews with the outgoing EXCO and teachers, after school. |
+| After the last interview | Teachers decide who joins the EXCO; candidates are told privately. |
+| The next few days | Successful candidates submit a campaign video of up to 3 minutes about their vision for BLA, online. |
+| Mid-May | All members watch the videos and vote online for the President, in their own time. There is no AT session for this. |
 | Late May | Teachers assign the other posts, and the new EXCO is announced. |
-| First AT in July | Handover ceremony. Outgoing EXCO members may serve on the Advisory Committee until December. |
+| An AT session in Term 3 | Handover ceremony, held as part of that session. Outgoing EXCO members may serve on the Advisory Committee until December. |
 
 Interviews are scored on five criteria, each out of 3: communication, teamwork, visionary leadership, action management and adaptability.
 
