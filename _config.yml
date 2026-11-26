@@ -31,7 +31,7 @@ calendar_pdf_url: "https://drive.google.com/file/d/1p_ySc_I6ptaI6su2YlSdGFHkJ9WK
 # Key dates: the year shown on the Key Dates pages and in the calendar file.
 # The dates themselves are in _data/key_dates.csv (see EDITING.md).
 dates_year: 2027                           # ← EDIT each November
-dates_tentative: true                      # ← EDIT: false once the school calendar confirms the dates
+dates_tentative: false                     # ← EDIT: false once the school calendar confirms the dates
 
 # Design (Just the Docs theme, loaded by GitHub)
 remote_theme: just-the-docs/just-the-docs@v0.12.0
