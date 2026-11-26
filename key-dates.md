@@ -50,3 +50,7 @@ BLA全年活动。除另有注明外，AT在星期一举行。
 - 由教育部或其他学校主办的活动，参加对象以通知为准。
 
 {% include dates-table.html lang="zh" %}
+
+{% if site.calendar_pdf_url != "" %}
+[BLA年度活动日历完整版（PDF，仅供BLA老师和执委查阅）]({{ site.calendar_pdf_url }})
+{% endif %}

@@ -51,3 +51,7 @@ Subscribe once and your calendar app will update itself when a date changes. Dat
 - For anything run by MOE or another school, the notice says who takes part.
 
 {% include dates-table.html lang="en" %}
+
+{% if site.calendar_pdf_url != "" %}
+[Full BLA activities calendar (PDF, BLA teachers and EXCO only)]({{ site.calendar_pdf_url }})
+{% endif %}

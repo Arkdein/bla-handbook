@@ -19,9 +19,10 @@ The full rules for running BLA are in the **BLA Administrative SOP** <span lang=
 {: .fs-6 .fw-300 }
 
 [Open the Administrative SOP]({{ site.sop_url }}){: .btn .btn-primary }
+{% if site.calendar_pdf_url != "" %}[Full BLA activities calendar (PDF)]({{ site.calendar_pdf_url }}){: .btn }{% endif %}
 
 {: .note }
-The SOP is shared only with BLA teachers and current EXCO members, by name. Teachers sign in with their MOE account; EXCO members sign in with their iCON (students.edu.sg) account. If you are refused, ask a BLA teacher for access.
+The SOP and the full activities calendar are shared only with BLA teachers and current EXCO members, by name. Teachers sign in with their MOE account; EXCO members sign in with their iCON (students.edu.sg) account. If you are refused, ask a BLA teacher for access.
 
 ## What the SOP covers
 

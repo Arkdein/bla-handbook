@@ -18,9 +18,10 @@ translation_lang: en
 {: .fs-6 .fw-300 }
 
 [打开《行政标准作业程序》]({{ site.sop_url }}){: .btn .btn-primary }
+{% if site.calendar_pdf_url != "" %}[BLA年度活动日历完整版（PDF）]({{ site.calendar_pdf_url }}){: .btn }{% endif %}
 
 {: .note_zh }
-这份文件只开放给指定的BLA老师和现任执委。老师请用MOE账号登录，执委请用iCON（students.edu.sg）账号登录。如无法打开，请向BLA老师申请权限。
+《行政标准作业程序》和年度活动日历完整版都只开放给指定的BLA老师和现任执委。老师请用MOE账号登录，执委请用iCON（students.edu.sg）账号登录。如无法打开，请向BLA老师申请权限。
 
 ## SOP的内容 {#what-the-sop-covers}
 
