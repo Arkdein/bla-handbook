@@ -28,14 +28,15 @@ BLA's next lectures and events. For the whole year, see [Key Dates](key-dates.md
 
 **Tech competition, shifting US politics, and Southeast Asia's strategic choices**
 
-Chinese title: 《AI时代的中美大国博弈：科技竞争、美国政治变局与东南亚的战略选择》.
+The lecture is in Chinese. Chinese title: 《AI时代的中美大国博弈：科技竞争、美国政治变局与东南亚的战略选择》.
 
 | | |
 |:--|:--|
 | **Speaker** | Assoc Prof Li Mingjiang, S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University |
 | **Date** | Monday 25 January 2027 |
 | **Time** | 4.20 pm to 6 pm |
-| **Venue** | To be announced |
+| **Venue** | To be confirmed |
+| **Language** | Chinese |
 | **Format** | A talk of about 60 minutes, then questions and discussion |
 | **For** | Sec 4 and JC2 students taking the Bicultural Studies Programme (BSP) and China Studies in Chinese (CSC) |
 
