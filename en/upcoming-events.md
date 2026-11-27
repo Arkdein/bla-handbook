@@ -39,6 +39,7 @@ The lecture is in Chinese. Chinese title: 《AI时代的中美大国博弈：科
 | **Language** | Chinese |
 | **Format** | A talk of about 60 minutes, then questions and discussion |
 | **For** | All BLA members (Sec 3 to JC2) |
+{: .bla-details }
 
 The lecture looks at US politics from the 2026 midterms to the 2028 presidential election, and covers four areas:
 

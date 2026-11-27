@@ -123,3 +123,7 @@ details.bla-more[open] summary { margin-bottom: 0.5rem; }
 
 // Upcoming Events: event poster (tap to open full size)
 .bla-poster { display: block; width: 100%; max-width: 420px; height: auto; margin: 0.5rem 0 1rem; border: 1px solid $border-color; border-radius: 6px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12); }
+
+// Event details table (label | value): no header row, narrow label column
+table.bla-details thead { display: none; }
+table.bla-details td:first-child { width: 1%; white-space: nowrap; }
