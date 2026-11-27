@@ -51,8 +51,6 @@ The lecture looks at US politics from the 2026 midterms to the 2028 presidential
 The speaker may adjust the topic and content slightly. What is presented on the day applies.
 
 [![Lecture poster, in Chinese: BLA Lecture Series 1, AI and the US–China rivalry: tech competition, shifting US politics and Southeast Asia's strategic choices. Speaker: Assoc Prof Li Mingjiang, RSIS, NTU. Monday 25 January 2027, 4.20 pm to 6 pm.]({{ '/assets/images/events/2027-01-25-lecture-1.jpg' | relative_url }}){: .bla-poster }]({{ '/assets/images/events/2027-01-25-lecture-1.jpg' | relative_url }})
-Tap the poster to see it full size.
-{: .fs-3 }
 
 [Add the dates to your calendar](key-dates.md#add-these-dates-to-your-calendar){: .btn .btn-primary }
 

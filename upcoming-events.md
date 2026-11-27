@@ -52,8 +52,6 @@ BLA近期的讲座与活动。全年日期见[重要日期](key-dates.md)。
 讲者或会调整讲题与内容，以活动当天为准。
 
 [![讲座海报：BLA讲座系列第一讲，AI时代的中美大国博弈——科技竞争、美国政治变局与东南亚的战略选择。主讲：李明江副教授，南洋理工大学拉惹勒南国际研究院。2027年1月25日（星期一）下午4时20分至6时。]({{ '/assets/images/events/2027-01-25-lecture-1.jpg' | relative_url }}){: .bla-poster }]({{ '/assets/images/events/2027-01-25-lecture-1.jpg' | relative_url }})
-点击海报可查看大图。
-{: .fs-3 }
 
 [把日期加入你的日历](key-dates.md#add-these-dates-to-your-calendar){: .btn .btn-primary }
 
