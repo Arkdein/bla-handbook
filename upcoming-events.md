@@ -17,8 +17,13 @@ translation_lang: en
   - New event: copy one event block (from its ## heading down to the --- line),
     give it a new {#id}, and use the same id on the English page.
   - Poster: put the image in assets/images/events/, named by date.
-  - After the event: delete its block from both pages. The date stays in
-    _data/key_dates.csv.
+  - After the event: move its block, on both pages, into a collapsible
+    <details class="bla-more"> under ## 往届活动 / ## Past events {#past-events}.
+    Put the event's {#id} on the <details> tag, use the date and title as its
+    <summary>, write it in the past tense, and drop the calendar button and the
+    "topic may change" note. Keep the poster. If no events are left above it,
+    add the line 目前暂无已公布的活动，敬请期待。 / No upcoming events have been
+    announced yet. The date stays in _data/key_dates.csv.
 {%- endcomment -%}
 
 # 近期活动
