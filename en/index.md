@@ -31,6 +31,7 @@ This handbook explains what BLA stands for, when things happen in the year, and 
 <div class="bla-start-here" markdown="1">
 [About BLA](about.md){: .btn .btn-primary }
 [Key dates](key-dates.md){: .btn .btn-primary }
+[Upcoming events](upcoming-events.md){: .btn .btn-primary }
 [Member's guide](members-guide.md){: .btn .btn-primary }
 {% if site.excusal_form_url != "" %}[Apply for an excusal]({{ site.excusal_form_url }}){: .btn .btn-primary }{% endif %}
 </div>

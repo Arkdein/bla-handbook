@@ -1,6 +1,6 @@
 ---
 title: 会员指南
-nav_order: 4
+nav_order: 5
 lang: zh-Hans
 owner: BLA老师
 last_reviewed: 2026年11月

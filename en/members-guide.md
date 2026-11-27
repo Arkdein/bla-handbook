@@ -1,7 +1,7 @@
 ---
 title: "Member's Guide"
 parent: English
-nav_order: 3
+nav_order: 4
 lang: en
 owner: BLA teachers
 last_reviewed: Nov 2026

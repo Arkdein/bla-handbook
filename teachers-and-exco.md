@@ -1,6 +1,6 @@
 ---
 title: 老师与执委
-nav_order: 5
+nav_order: 6
 lang: zh-Hans
 owner: BLA老师
 last_reviewed: 2026年11月

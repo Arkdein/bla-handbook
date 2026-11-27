@@ -33,6 +33,7 @@ translation_lang: en
 <div class="bla-start-here" markdown="1">
 [关于BLA](about.md){: .btn .btn-primary }
 [重要日期](key-dates.md){: .btn .btn-primary }
+[近期活动](upcoming-events.md){: .btn .btn-primary }
 [会员指南](members-guide.md){: .btn .btn-primary }
 {% if site.excusal_form_url != "" %}[请假申请]({{ site.excusal_form_url }}){: .btn .btn-primary }{% endif %}
 </div>
