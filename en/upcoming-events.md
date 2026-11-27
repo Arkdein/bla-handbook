@@ -38,7 +38,7 @@ The lecture is in Chinese. Chinese title: 《AI时代的中美大国博弈：科
 | **Venue** | To be confirmed |
 | **Language** | Chinese |
 | **Format** | A talk of about 60 minutes, then questions and discussion |
-| **For** | Sec 3 students in the Bicultural Studies Programme (BSP), and Sec 4 and JC2 students taking BSP and China Studies in Chinese (CSC) |
+| **For** | All BLA members (Sec 3 to JC2) |
 
 The lecture looks at US politics from the 2026 midterms to the 2028 presidential election, and covers four areas:
 
